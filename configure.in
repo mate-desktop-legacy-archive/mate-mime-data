@@ -1,4 +1,4 @@
-AC_INIT([mate-mime-data], [2011.12.01], [https://github.com/perberos/mate-desktop-environment])
+AC_INIT([mate-mime-data], [1.1.0], [http://www.mate-desktop.org])
 AC_CONFIG_SRCDIR(check-mime.pl)
 
 AM_INIT_AUTOMAKE
