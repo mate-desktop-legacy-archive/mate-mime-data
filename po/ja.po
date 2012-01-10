@@ -1,8 +1,8 @@
 # mate-mime-data ja.po.
 # Copyright (C) 2000-2004 Free Software Foundation, Inc.
-# Akira TAGOH <tagoh@mate.gr.jp>, 2000-2001.
-# Takeshi AIHANA <aihana@mate.gr.jp>, 2003-2004.
-# KAMAGASAKO Masatoshi <emerald@mate.gr.jp>, 2003.
+# Akira TAGOH <tagoh@gnome.gr.jp>, 2000-2001.
+# Takeshi AIHANA <aihana@gnome.gr.jp>, 2003-2004.
+# KAMAGASAKO Masatoshi <emerald@gnome.gr.jp>, 2003.
 #
 msgid ""
 msgstr ""
@@ -10,8 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-03-09 00:05+0900\n"
 "PO-Revision-Date: 2004-03-09 00:05+0900\n"
-"Last-Translator: Takeshi AIHANA <aihana@mate.gr.jp>\n"
-"Language-Team: Japanese <mate-translation@mate.gr.jp>\n"
+"Last-Translator: Takeshi AIHANA <aihana@gnome.gr.jp>\n"
+"Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
