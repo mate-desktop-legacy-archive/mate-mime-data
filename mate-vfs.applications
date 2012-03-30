@@ -91,8 +91,8 @@ epiphany
 	mime_types=text/html,x-directory/webdav,x-directory/webdav-prefer-directory,image/gif,image/jpeg
 
 file-roller
-	command=file-roller
-	name=File-roller
+	command=engrampa
+	name=Engrampa
 	can_open_multiple_files=true
 	startup_notify=true
 	expects_uris=false
@@ -100,8 +100,8 @@ file-roller
 	mime_types=application/x-bzip,application/x-bzip-compressed-tar,application/x-arj,application/x-compress,application/x-compressed-tar,application/x-gtar,application/x-gzip,application/x-lha,application/x-lhz,application/x-tar,application/zip,application/x-rar-compressed,application/x-rar
 
 file-roller-pack
-	command=file-roller --add
-	name=File Roller
+	command=engrampa --add
+	name=Engrampa
 	can_open_multiple_files=true
 	startup_notify=true
 	expects_uris=false
