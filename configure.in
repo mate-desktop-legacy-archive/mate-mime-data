@@ -15,7 +15,6 @@ AM_GLIB_GNU_GETTEXT
 
 AC_CONFIG_FILES([
 Makefile
-mate-mime-data.spec
 mate-mime-data-zip
 man/Makefile
 man/mate-vfs-mime.5

@@ -20,7 +20,6 @@ sysconf_DATA = mate-vfs-mime-magic
 EXTRA_DIST = \
 	autogen.sh \
 	check-mime.pl \
-	mate-mime-data.spec \
 	mate-mime-data-zip.in \
 	mate-mime-data-2.0.pc.in \
 	intltool-extract.in \
