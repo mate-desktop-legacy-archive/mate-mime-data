@@ -1,18 +1,22 @@
-# Slovenian translation for mate-vfs.
-# Copyright (C) 2000 Free Software Foundation, Inc.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Andraz Tori <andraz.tori1@guest.arnes.si>, 2000.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-mime-data 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-06-03 10:57+0200\n"
-"PO-Revision-Date: 2000-07-07 02:53+0200\n"
-"Last-Translator: Andraz Tori <andraz.tori1@guest.arnes.si>\n"
-"Language-Team: Slovenian <sl@li.org>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-17 16:32+0100\n"
+"PO-Revision-Date: 2012-02-17 15:37+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: Slovenian (http://www.transifex.com/projects/p/MATE/language/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)\n"
 
 #: ../mate-vfs.keys.in.h:1
 msgid "2D chemical structure"
@@ -183,251 +187,252 @@ msgid "CPIO archive (Gzip-compressed)"
 msgstr "Arhiv CPIO (komprimirana z gzip)"
 
 #: ../mate-vfs.keys.in.h:43
+msgid "Caja link"
+msgstr "Povezava Cajaa"
+
+#: ../mate-vfs.keys.in.h:44
 msgid "Calendar file"
 msgstr "Datoteka koledarja"
 
-#: ../mate-vfs.keys.in.h:44
+#: ../mate-vfs.keys.in.h:45
 msgid "Calendar or event document"
 msgstr "Dokument koledarja ali dogodka"
 
-#: ../mate-vfs.keys.in.h:45
+#: ../mate-vfs.keys.in.h:46
 msgid "Character device"
 msgstr "Znakovna naprava"
 
-#: ../mate-vfs.keys.in.h:46
+#: ../mate-vfs.keys.in.h:47
 msgid "Cinelerra editing sheet"
 msgstr "Odločitve urejanja Cinelerra"
 
+#: ../mate-vfs.keys.in.h:48
 msgid "Comma-separated text document"
 msgstr "Dokument besedila ločenega z vejicami"
 
-#: ../mate-vfs.keys.in.h:48
+#: ../mate-vfs.keys.in.h:49
 msgid "Commodore 64 audio"
 msgstr "Zvok Commodore 64"
 
-#: ../mate-vfs.keys.in.h:49
+#: ../mate-vfs.keys.in.h:50
 msgid "Compound document"
 msgstr "Združen dokument"
 
-#: ../mate-vfs.keys.in.h:50
+#: ../mate-vfs.keys.in.h:51
 msgid "Compress-compressed file"
 msgstr "Datoteka komprimirana s compress"
 
-#: ../mate-vfs.keys.in.h:51
+#: ../mate-vfs.keys.in.h:52
 msgid "Compressed GIMP document"
 msgstr "Komprimiran dokument GIMPa"
 
-#: ../mate-vfs.keys.in.h:52
+#: ../mate-vfs.keys.in.h:53
 msgid "Corel Draw drawing"
 msgstr "Risba Corel Drawa"
 
-#: ../mate-vfs.keys.in.h:53
+#: ../mate-vfs.keys.in.h:54
 msgid "Crystalline structure model"
 msgstr "Strukturni model Crystalline"
 
-#: ../mate-vfs.keys.in.h:54
+#: ../mate-vfs.keys.in.h:55
 msgid "DCL script"
 msgstr "Skripta DCL"
 
-#: ../mate-vfs.keys.in.h:55
+#: ../mate-vfs.keys.in.h:56
 msgid "DOS font"
 msgstr "Pisava DOS"
 
-#: ../mate-vfs.keys.in.h:56
+#: ../mate-vfs.keys.in.h:57
 msgid "DOS/Windows program"
 msgstr "Program za DOS/Okena"
 
-#: ../mate-vfs.keys.in.h:57
+#: ../mate-vfs.keys.in.h:58
 msgid "DSSSL document"
 msgstr "Dokument DSSSL"
 
-#: ../mate-vfs.keys.in.h:58
+#: ../mate-vfs.keys.in.h:59
 msgid "DV video"
 msgstr "Video DV"
 
-#: ../mate-vfs.keys.in.h:59
+#: ../mate-vfs.keys.in.h:60
 msgid "DXF vector graphic"
 msgstr "Vektorska grafika DXF"
 
-#: ../mate-vfs.keys.in.h:60
+#: ../mate-vfs.keys.in.h:61
 msgid "Debian package"
 msgstr "Paket Debiana"
 
-#: ../mate-vfs.keys.in.h:61
+#: ../mate-vfs.keys.in.h:62
 msgid "Device Independant Bitmap"
 msgstr "Rastrska slika neodvisna od naprave"
 
-#: ../mate-vfs.keys.in.h:62
+#: ../mate-vfs.keys.in.h:63
 msgid "Dia diagram"
 msgstr "Diagram Dia"
 
-#: ../mate-vfs.keys.in.h:63
+#: ../mate-vfs.keys.in.h:64
 msgid "Digital Imaging and Communications in Medicine image"
 msgstr "Slika Digitalnega vzorčenja in komunikacij v medicini"
 
-#: ../mate-vfs.keys.in.h:64
+#: ../mate-vfs.keys.in.h:65
 msgid "Digital Moving Picture Exchange image"
 msgstr "Slika Izmenjave digitalnih filmov"
 
-#: ../mate-vfs.keys.in.h:65
+#: ../mate-vfs.keys.in.h:66
 msgid "Directory information file"
 msgstr "Datoteka s podatki o imeniku"
 
-#: ../mate-vfs.keys.in.h:66
+#: ../mate-vfs.keys.in.h:67
 msgid "DjVu image"
 msgstr "Slika DjVu"
 
-#: ../mate-vfs.keys.in.h:67
+#: ../mate-vfs.keys.in.h:68
 msgid "Document type definition"
 msgstr "Definicij vrste dokumenta"
 
-#: ../mate-vfs.keys.in.h:68
+#: ../mate-vfs.keys.in.h:69
 msgid "Documents"
 msgstr "Dokumenti"
 
-#: ../mate-vfs.keys.in.h:69
+#: ../mate-vfs.keys.in.h:70
 msgid "Documents/Diagram"
 msgstr "Dokumenti/Diagrami"
 
-#: ../mate-vfs.keys.in.h:70
+#: ../mate-vfs.keys.in.h:71
 msgid "Documents/Extended Markup Language (XML)"
 msgstr "Dokumenti/Razširjen označni jezik (XML)"
 
-#: ../mate-vfs.keys.in.h:71
+#: ../mate-vfs.keys.in.h:72
 msgid "Documents/Numeric"
 msgstr "Dokumenti/Numerični"
 
-#: ../mate-vfs.keys.in.h:72
+#: ../mate-vfs.keys.in.h:73
 msgid "Documents/Plain Text"
 msgstr "Dokumenti/Čisto besedilo"
 
-#: ../mate-vfs.keys.in.h:73
+#: ../mate-vfs.keys.in.h:74
 msgid "Documents/Presentation"
 msgstr "Dokumenti/Predstavitve"
 
-#: ../mate-vfs.keys.in.h:74
+#: ../mate-vfs.keys.in.h:75
 msgid "Documents/Project Management"
 msgstr "Dokumenti/Upravljanje projektov"
 
-#: ../mate-vfs.keys.in.h:75
+#: ../mate-vfs.keys.in.h:76
 msgid "Documents/Published Materials"
 msgstr "Dokumenti/Objavljeni materiali"
 
-#: ../mate-vfs.keys.in.h:76
+#: ../mate-vfs.keys.in.h:77
 msgid "Documents/Spreadsheet"
 msgstr "Dokumenti/Preglednice"
 
-#: ../mate-vfs.keys.in.h:77
+#: ../mate-vfs.keys.in.h:78
 msgid "Documents/TeX"
 msgstr "Dokumenti/TeX"
 
-#: ../mate-vfs.keys.in.h:78
+#: ../mate-vfs.keys.in.h:79
 msgid "Documents/Text Markup"
 msgstr "Dokumenti/Označeno besedilo"
 
-#: ../mate-vfs.keys.in.h:79
+#: ../mate-vfs.keys.in.h:80
 msgid "Documents/Vector Graphics"
 msgstr "Dokumenti/Vektorska grafika"
 
-#: ../mate-vfs.keys.in.h:80
+#: ../mate-vfs.keys.in.h:81
 msgid "Documents/Word Processor"
 msgstr "Dokumenti/Urejevalnik besedil"
 
-#: ../mate-vfs.keys.in.h:81
+#: ../mate-vfs.keys.in.h:82
 msgid "Documents/World Wide Web"
 msgstr "dokumenti/svetovni splet"
 
-#: ../mate-vfs.keys.in.h:82
+#: ../mate-vfs.keys.in.h:83
 msgid "Dolby Digital audio"
 msgstr "audio Dolby Digital"
 
-#: ../mate-vfs.keys.in.h:83
+#: ../mate-vfs.keys.in.h:84
 msgid "Dreamcast ROM"
 msgstr "Dreamcastov ROM"
 
-#: ../mate-vfs.keys.in.h:84
+#: ../mate-vfs.keys.in.h:85
 msgid "Emacs Lisp source code"
 msgstr "Izvorna koda Emacs Lisp"
 
-#: ../mate-vfs.keys.in.h:85
+#: ../mate-vfs.keys.in.h:86
 msgid "Email headers"
 msgstr "Glave e-pošte"
 
-#: ../mate-vfs.keys.in.h:86
+#: ../mate-vfs.keys.in.h:87
 msgid "Email message/mailbox"
 msgstr "Sporočilo e-pošte/poštni predal"
 
-#: ../mate-vfs.keys.in.h:87
+#: ../mate-vfs.keys.in.h:88
 msgid "Encrypted message"
 msgstr "Šifrirano sporočilo"
 
-#: ../mate-vfs.keys.in.h:88
+#: ../mate-vfs.keys.in.h:89
 msgid "Enlightenment theme"
 msgstr "Tema Enlightmenta"
 
-#: ../mate-vfs.keys.in.h:89
+#: ../mate-vfs.keys.in.h:90
 msgid "Enriched text document"
 msgstr "Dokument z obogatenim besedilom"
 
-#: ../mate-vfs.keys.in.h:90
+#: ../mate-vfs.keys.in.h:91
 msgid "Epiphany bookmarks file"
 msgstr "Datoteka z Epiphanijevimi zaznamki"
 
-#: ../mate-vfs.keys.in.h:91
+#: ../mate-vfs.keys.in.h:92
 msgid "FLAC audio"
 msgstr "Zvok FLAC"
 
-#: ../mate-vfs.keys.in.h:92
+#: ../mate-vfs.keys.in.h:93
 msgid "FLC animation"
 msgstr "Animacija FLC"
 
-#: ../mate-vfs.keys.in.h:93
+#: ../mate-vfs.keys.in.h:94
 msgid "FLI animation"
 msgstr "Animacija FLI"
 
-#: ../mate-vfs.keys.in.h:94
+#: ../mate-vfs.keys.in.h:95
 msgid "FastTracker II audio"
 msgstr "Zvok FastTracker II"
 
-#: ../mate-vfs.keys.in.h:95
+#: ../mate-vfs.keys.in.h:96
 msgid "FlashPix Image"
 msgstr "Slika FlashPix"
 
-#: ../mate-vfs.keys.in.h:96
+#: ../mate-vfs.keys.in.h:97
 msgid "Flexible Image Transport System"
 msgstr "Prilagodljiv sistem prenosa slik"
 
-#: ../mate-vfs.keys.in.h:97
+#: ../mate-vfs.keys.in.h:98
 msgid "Folder"
 msgstr "Mapa"
 
-#: ../mate-vfs.keys.in.h:98
+#: ../mate-vfs.keys.in.h:99
 msgid "Fortran source code"
 msgstr "Izvorna koda v Fortranu"
 
-#: ../mate-vfs.keys.in.h:99
+#: ../mate-vfs.keys.in.h:100
 msgid "FrameMaker interchange document"
 msgstr "Izmenjalni dokument FrameMakerja"
 
-#: ../mate-vfs.keys.in.h:100
+#: ../mate-vfs.keys.in.h:101
 msgid "G3 fax image"
 msgstr "Fax slika G3"
 
-#: ../mate-vfs.keys.in.h:101
+#: ../mate-vfs.keys.in.h:102
 msgid "GIF image"
 msgstr "Slika GIF"
 
-#: ../mate-vfs.keys.in.h:102
+#: ../mate-vfs.keys.in.h:103
 msgid "GIMP document"
 msgstr "Dokument GIMP"
 
-#: ../mate-vfs.keys.in.h:103
+#: ../mate-vfs.keys.in.h:104
 msgid "GMC link"
 msgstr "Povezava GMC"
-
-#: ../mate-vfs.keys.in.h:104
-msgid "MATE desktop theme"
-msgstr "Tema namizja MATE"
 
 #: ../mate-vfs.keys.in.h:105
 msgid "GNU Oleo Spreadsheet"
@@ -622,172 +627,172 @@ msgid "LyX document"
 msgstr "Dokument LyX"
 
 #: ../mate-vfs.keys.in.h:153
+msgid "MATE desktop theme"
+msgstr "Tema namizja MATE"
+
+#: ../mate-vfs.keys.in.h:154
 msgid "MIDI audio"
 msgstr "Zvok MIDI"
 
-#: ../mate-vfs.keys.in.h:154
+#: ../mate-vfs.keys.in.h:155
 msgid "MOD audio"
 msgstr "Zvok MOD"
 
-#: ../mate-vfs.keys.in.h:155
+#: ../mate-vfs.keys.in.h:156
 msgid "MP3 audio"
 msgstr "Zvok MP3"
 
-#: ../mate-vfs.keys.in.h:156
+#: ../mate-vfs.keys.in.h:157
 msgid "MP3 audio playlist"
 msgstr "Seznam predvajanja MP3jev"
 
-#: ../mate-vfs.keys.in.h:157
+#: ../mate-vfs.keys.in.h:158
 msgid "MPEG video"
 msgstr "Video MPEG"
 
-#: ../mate-vfs.keys.in.h:158
+#: ../mate-vfs.keys.in.h:159
 msgid "MPEG-4 audio"
 msgstr "zvok MPEG-4"
 
-#: ../mate-vfs.keys.in.h:159
+#: ../mate-vfs.keys.in.h:160
 msgid "MS ASF audio"
 msgstr "Avdio MS ASF"
 
-#: ../mate-vfs.keys.in.h:160
+#: ../mate-vfs.keys.in.h:161
 msgid "MS ASF video"
 msgstr "Video MS ASF"
 
-#: ../mate-vfs.keys.in.h:161
+#: ../mate-vfs.keys.in.h:162
 msgid "MS video"
 msgstr "Video MS"
 
-#: ../mate-vfs.keys.in.h:162
+#: ../mate-vfs.keys.in.h:163
 msgid "MSX ROM"
 msgstr "MSXov ROM"
 
-#: ../mate-vfs.keys.in.h:163
+#: ../mate-vfs.keys.in.h:164
 msgid "MacBinary file"
 msgstr "Datoteka MacBinary"
 
-#: ../mate-vfs.keys.in.h:164
+#: ../mate-vfs.keys.in.h:165
 msgid "Macintosh AppleDouble-encoded file"
 msgstr "Datoteka kodirana z Macintosh AppleDouble"
 
-#: ../mate-vfs.keys.in.h:165
+#: ../mate-vfs.keys.in.h:166
 msgid "Macintosh BinHex-encoded file"
 msgstr "Datoteka kodirana z Macintosh BinHex"
 
-#: ../mate-vfs.keys.in.h:166
+#: ../mate-vfs.keys.in.h:167
 msgid "Macintosh StuffIt archive"
 msgstr "Arhiv Macintosh StuffIt"
 
-#: ../mate-vfs.keys.in.h:167
+#: ../mate-vfs.keys.in.h:168
 msgid "Macromedia Flash file"
 msgstr "Datoteka Macromedia Flash"
 
-#: ../mate-vfs.keys.in.h:168
+#: ../mate-vfs.keys.in.h:169
 msgid "MagicPoint presentation"
 msgstr "Predstavitev MagicPoint"
 
-#: ../mate-vfs.keys.in.h:169
+#: ../mate-vfs.keys.in.h:170
 msgid "Magick image format"
 msgstr "Slika oblike Magick"
 
-#: ../mate-vfs.keys.in.h:170
+#: ../mate-vfs.keys.in.h:171
 msgid "Mail delivery report"
 msgstr "Poročilo o dostavi pošte"
 
-#: ../mate-vfs.keys.in.h:171
+#: ../mate-vfs.keys.in.h:172
 msgid "Mail disposition report"
 msgstr "Poročilo o stanju pošte"
 
-#: ../mate-vfs.keys.in.h:172
+#: ../mate-vfs.keys.in.h:173
 msgid "Mail system report"
 msgstr "Poročilo o poštnem sistemu"
 
-#: ../mate-vfs.keys.in.h:173
+#: ../mate-vfs.keys.in.h:174
 msgid "Makefile"
 msgstr "Graditeljska datoteka"
 
-#: ../mate-vfs.keys.in.h:174
+#: ../mate-vfs.keys.in.h:175
 msgid "Manual page"
 msgstr "Stran priročnika"
 
-#: ../mate-vfs.keys.in.h:175
+#: ../mate-vfs.keys.in.h:176
 msgid "Manual page (compressed)"
 msgstr "Stran priročnika (komprimirana)"
 
-#: ../mate-vfs.keys.in.h:176
+#: ../mate-vfs.keys.in.h:177
 msgid "Master System or Game Gear ROM"
 msgstr "Game Gearov ali Master Systemov ROM"
 
-#: ../mate-vfs.keys.in.h:177
+#: ../mate-vfs.keys.in.h:178
 msgid "MathML document"
 msgstr "Dokument MathML"
 
-#: ../mate-vfs.keys.in.h:178
+#: ../mate-vfs.keys.in.h:179
 msgid "Matroska video"
 msgstr "Video Matroska"
 
-#: ../mate-vfs.keys.in.h:179
+#: ../mate-vfs.keys.in.h:180
 msgid "Memory dump"
 msgstr "Izpis pomnilnika"
 
-#: ../mate-vfs.keys.in.h:180
+#: ../mate-vfs.keys.in.h:181
 msgid "Message"
 msgstr "Sporočilo"
 
-#: ../mate-vfs.keys.in.h:181
+#: ../mate-vfs.keys.in.h:182
 msgid "Message digest"
 msgstr "Bilten sporočil"
 
-#: ../mate-vfs.keys.in.h:182
+#: ../mate-vfs.keys.in.h:183
 msgid "Message in several formats"
 msgstr "Sporočilo zapisano v več oblikah"
 
-#: ../mate-vfs.keys.in.h:183
+#: ../mate-vfs.keys.in.h:184
 msgid "Microsoft Excel spreadsheet"
 msgstr "Preglednica Microsoft Excela"
 
-#: ../mate-vfs.keys.in.h:184
+#: ../mate-vfs.keys.in.h:185
 msgid "Microsoft PowerPoint document"
 msgstr "Dokument Microsoft PowerPointa"
 
-#: ../mate-vfs.keys.in.h:185
+#: ../mate-vfs.keys.in.h:186
 msgid "Microsoft WMV playlist"
 msgstr "Video Microsoft WMV"
 
-#: ../mate-vfs.keys.in.h:186
+#: ../mate-vfs.keys.in.h:187
 msgid "Microsoft WMV video"
 msgstr "Video Microsoft WMV"
 
-#: ../mate-vfs.keys.in.h:187
+#: ../mate-vfs.keys.in.h:188
 msgid "Microsoft Word document"
 msgstr "Dokument Microsoft Word"
 
-#: ../mate-vfs.keys.in.h:188
+#: ../mate-vfs.keys.in.h:189
 msgid "Microsoft video"
 msgstr "Video Microsoft"
 
-#: ../mate-vfs.keys.in.h:189
+#: ../mate-vfs.keys.in.h:190
 msgid "Monkey audio"
 msgstr "Zvok Monkey"
 
-#: ../mate-vfs.keys.in.h:190
+#: ../mate-vfs.keys.in.h:191
 msgid "Mozilla bookmarks file"
 msgstr "Datoteka Mozillinih zaznamkov"
 
-#: ../mate-vfs.keys.in.h:191
+#: ../mate-vfs.keys.in.h:192
 msgid "Multi-part message"
 msgstr "Večdelno sporočilo"
 
-#: ../mate-vfs.keys.in.h:192
+#: ../mate-vfs.keys.in.h:193
 msgid "NES ROM"
 msgstr "NESov ROM"
 
-#: ../mate-vfs.keys.in.h:193
+#: ../mate-vfs.keys.in.h:194
 msgid "Named pipe"
 msgstr "Poimenovana cev"
-
-#: ../mate-vfs.keys.in.h:194
-msgid "Caja link"
-msgstr "Povezava Cajaa"
 
 #: ../mate-vfs.keys.in.h:195
 msgid "Netscape bookmarks file"
@@ -1460,608 +1465,3 @@ msgstr "Programje iPod"
 #: ../mate-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "Vektorska grafika xfig"
-
-#~ msgid "MSX rom"
-#~ msgstr "ROM MSX"
-
-#~ msgid "NES rom"
-#~ msgstr "ROM NES"
-
-#~ msgid "arj archive"
-#~ msgstr "arhiv arj"
-
-#~ msgid "gtar archive"
-#~ msgstr "arhiv gtar"
-
-#~ msgid "M3 audio URL"
-#~ msgstr "URL zvoka oblike M3"
-
-#~ msgid "MATE application details"
-#~ msgstr "podrobnosti MATE programa"
-
-#~ msgid "%s:%d contains NUL characters."
-#~ msgstr "%s:%d vsebuje NIČELNE znake."
-
-#~ msgid "%s:%d contains no method name."
-#~ msgstr "%s:%d ne vsebuje imena metode."
-
-#~ msgid "%s:%d contains no module name."
-#~ msgstr "%s:%d ne vsebuje imea modula."
-
-#~ msgid "Configuration file `%s' was not found: %s"
-#~ msgstr "Nastavitvena datoteka `%s' ni bila najdena: %s"
-
-#~ msgid "Could not parse: %s"
-#~ msgstr "Ne morem razčleniti: %s"
-
-#~ msgid "More parsing errors will be ignored."
-#~ msgstr "Nadalnje napake pri razčlenitvi bodo ignorirane."
-
-#~ msgid "No error"
-#~ msgstr "Brez napak"
-
-#~ msgid "File not found"
-#~ msgstr "Datoteke ni mogoče najti"
-
-#~ msgid "Internal error"
-#~ msgstr "Interna napaka"
-
-#~ msgid "Invalid parameters"
-#~ msgstr "Neveljavni parametri"
-
-#~ msgid "Unsupported operation"
-#~ msgstr "Nepodprta operacija"
-
-#~ msgid "I/O error"
-#~ msgstr "V/I napaka"
-
-#~ msgid "Data corrupted"
-#~ msgstr "Podatki so pokvarjeni"
-
-#~ msgid "Format not valid"
-#~ msgstr "Format ni veljaven"
-
-#~ msgid "Bad file handle"
-#~ msgstr "Neveljavna datotečna ročica"
-
-#~ msgid "File too big"
-#~ msgstr "Datoteka je prevelika"
-
-#~ msgid "No space left on device"
-#~ msgstr "Na napravi ni več prostora"
-
-#~ msgid "Read-only file system"
-#~ msgstr "Datotečni sistem je le berljiv"
-
-#~ msgid "Invalid URI"
-#~ msgstr "Neveljaven URI"
-
-#~ msgid "File not open"
-#~ msgstr "Datoteka ni odprta"
-
-#~ msgid "Open mode not valid"
-#~ msgstr "Neveljaven način odpiranja"
-
-#~ msgid "Access denied"
-#~ msgstr "Dostop zavrnjen"
-
-#~ msgid "Too many open files"
-#~ msgstr "Preveč odprtih datotek"
-
-#~ msgid "End of file"
-#~ msgstr "Konec datoteke"
-
-#~ msgid "Not a directory"
-#~ msgstr "Ni imenik"
-
-#~ msgid "Operation in progress"
-#~ msgstr "Operacija poteka"
-
-#~ msgid "Operation interrupted"
-#~ msgstr "Operacija je bila prekinjena"
-
-#~ msgid "File exists"
-#~ msgstr "Datoteka obstaja"
-
-#~ msgid "Looping links encountered"
-#~ msgstr "Najdene so bile krožne povezave"
-
-#~ msgid "Operation not permitted"
-#~ msgstr "Nedovoljena operacija"
-
-#~ msgid "Is a directory"
-#~ msgstr "Je imenik"
-
-#~ msgid "Not enough memory"
-#~ msgstr "Ni dovolj pomnilnika"
-
-#~ msgid "Host not found"
-#~ msgstr "Gostitelj ni bil najden"
-
-#~ msgid "Host name not valid"
-#~ msgstr "Gostitlejevo ime ni veljavno"
-
-#~ msgid "Host has no address"
-#~ msgstr "Gostitelj nima naslova"
-
-#~ msgid "Login failed"
-#~ msgstr "Prijava ni uspela"
-
-#~ msgid "Operation cancelled"
-#~ msgstr "Operacija preklicana"
-
-#~ msgid "Directory busy"
-#~ msgstr "Imenik je zaseden"
-
-#~ msgid "Directory not empty"
-#~ msgstr "Imenik ni prazen"
-
-#~ msgid "Too many links"
-#~ msgstr "Preveč povezav"
-
-#~ msgid "Read only file system"
-#~ msgstr "Datotečni sistem je le berljiv"
-
-#~ msgid "Not on the same file system"
-#~ msgstr "Ni na istem datotečnem sistemu"
-
-#~ msgid "Name too long"
-#~ msgstr "Ime je predolgo"
-
-#~ msgid "Service not available"
-#~ msgstr "Storitev ni na voljo"
-
-#~ msgid "Request obsoletes service's data"
-#~ msgstr "Zahtevek zastara podatke storitve"
-
-#~ msgid "Protocol error"
-#~ msgstr "Napaka v protokolu"
-
-#~ msgid "Unknown error"
-#~ msgstr "Neznana napaka"
-
-#~ msgid "1 byte"
-#~ msgstr "1 bajt"
-
-#~ msgid "%u bytes"
-#~ msgstr "%u bajtov"
-
-#~ msgid "%.1f K"
-#~ msgstr "%.1f K"
-
-#~ msgid "%.1f MB"
-#~ msgstr "%.1f MB"
-
-#~ msgid "%.1f GB"
-#~ msgstr "%.1f GB"
-
-#~ msgid "Unknown op type %u"
-#~ msgstr "Neznan tip operacije %u"
-
-#~ msgid "Cannot create pipe for open GIOChannel: %s"
-#~ msgstr "Ne morem ustvariti cevi GIOChannel: %s"
-
-#~ msgid "Unknown job kind %u"
-#~ msgstr "Neznana vrsta posla %u"
-
-#~ msgid "Operation stopped"
-#~ msgstr "Operacija ustavljena"
-
-#~ msgid "Unknown MateVFSSeekPosition %d"
-#~ msgstr "Neznan MateVFSSeekPosition %d"
-
-#~ msgid "MATE VFS already initialized."
-#~ msgstr "MATE VFS je že inicializiran."
-
-#~ msgid "%s to retrieve"
-#~ msgstr "%s za prenos sem"
-
-#~ msgid "Closing connection to %s"
-#~ msgstr "Zapiram povezavo z %s"
-
-#~ msgid "%s of %s read"
-#~ msgstr "%s od %s prebranih"
-
-#~ msgid "%s read"
-#~ msgstr "%s prebran"
-
-#~ msgid "Dying."
-#~ msgstr "Umira."
-
-#~ msgid "Error reading: %s"
-#~ msgstr "Napaka pri branju: %s"
-
-#~ msgid "Error writing: %s"
-#~ msgstr "Napaka pri pisanju v: %s"
-
-#~ msgid "Cannot write: %s"
-#~ msgstr "Ne morem zapisati v: %s"
-
-#~ msgid "Cannot create temporary file name `%s'"
-#~ msgstr "Ne morem ustvariti začasne datoteke `%s'"
-
-#~ msgid "Cannot create socket: %s"
-#~ msgstr "Ne morem ustvariti vtiča %s"
-
-#~ msgid "Cannot bind `%s': %s"
-#~ msgstr "Ne morem povezati `%s': %s"
-
-#~ msgid "Cannot listen on `%s': %s"
-#~ msgstr "Ne morem poslušati na `%s': %s"
-
-#~ msgid "Cannot accept connections on `%s': %s"
-#~ msgstr "Ne morem sprejeti povezav na `%s': %s"
-
-#~ msgid "Cannot initialize CORBA."
-#~ msgstr "Ne morem inicializirati CORBA-e."
-
-#~ msgid "Cannot resolve initial reference to RootPOA."
-#~ msgstr "Ne morem razvozlati začetne reference na RootPOA."
-
-#~ msgid "Cannot activate POA manager."
-#~ msgstr "Ne morem aktivirat upravljalca POA."
-
-#~ msgid "Usage: %s <ior> [<ior_fd>]\n"
-#~ msgstr "Uporaba: %s <ior> [<ior_fd>]\n"
-
-#~ msgid "Cannot open file descriptor %d."
-#~ msgstr "Ne morem odpreti datotečnega deskriptorja %d."
-
-#~ msgid "Notify interface for `%s' not found."
-#~ msgstr "Vmesnik za obvestila za `%s' ni bil najden."
-
-#~ msgid "Cannot setup Request object."
-#~ msgstr "Ne morem nastaviti predmeta za zahtevek."
-
-#~ msgid "Cannot extract IOR."
-#~ msgstr "Ne morem izluščiti IORa."
-
-#~ msgid "Got weird string from the slave process: `%s'"
-#~ msgstr "Dobil sem čudno sporočilo od suženjskega procesa: `%s'"
-
-#~ msgid "Cannot get object for `%s'"
-#~ msgstr "Ne morem dobiti predmeta za `%s'"
-
-#~ msgid "Cannot kill MATE::VFS::Slave::Notify -- exception %s"
-#~ msgstr "Ne morem ubiti MATE::VFS::Slave::Notify -- izjema %s"
-
-#~ msgid "Cannot connect socket `%s': %s"
-#~ msgstr "Ne morem povezati vtiča `%s': %s"
-
-#~ msgid "Cannot initialize MATE::VFS:Slave::Notify"
-#~ msgstr "Ne morem inicializirati MATE::VFS:Slave::Notify"
-
-#~ msgid "Cannot reset MATE::VFS::Slave %s -- exception %s"
-#~ msgstr "Ne morem ponastaviti MATE::VFS::Slave %s -- izjema %s"
-
-#~ msgid "Cannot reset MATE::VFS::Slave (IOR unknown) -- exception %s"
-#~ msgstr "Ne morem ponastaviti MATE::VFS::Slave (IOR neznan) -- izjema %s"
-
-#~ msgid "Cannot kill MATE::VFS::Slave %s -- exception %s"
-#~ msgstr "Ne morem ubiti MATE::VFS::Slave %s -- izjema %s"
-
-#~ msgid "Cannot kill MATE::VFS::Slave (IOR unknown) -- exception %s"
-#~ msgstr "Ne morem ubiti MATE::VFS::Slave (neznan IOR) -- izjema %s"
-
-#~ msgid "Back"
-#~ msgstr "Nazaj"
-
-#~ msgid "Go to the previously visited directory"
-#~ msgstr "Pojdi na prej obiskan imenik"
-
-#~ msgid "Up"
-#~ msgstr "Gor"
-
-#~ msgid "Go to the parent directory"
-#~ msgstr "Pojdi v starševski imenik"
-
-#~ msgid "Forward"
-#~ msgstr "Naprej"
-
-#~ msgid "Go to the next visited directory"
-#~ msgstr "Pojdi na naslednji obiskan imenik"
-
-#~ msgid "Rescan"
-#~ msgstr "Osveži"
-
-#~ msgid "Rescan the current directory"
-#~ msgstr "Osveži trenutni imenik"
-
-#~ msgid "Home"
-#~ msgstr "Dom"
-
-#~ msgid "Go to the home directory"
-#~ msgstr "Pojdi v domači imenik"
-
-#~ msgid "Name"
-#~ msgstr "Ime"
-
-#~ msgid "Size"
-#~ msgstr "Velikost"
-
-#~ msgid "Date"
-#~ msgstr "Datum"
-
-#~ msgid "Enter name:"
-#~ msgstr "Vpišite ime:"
-
-#~ msgid "Show:"
-#~ msgstr "Kaži:"
-
-#~ msgid "Show dotfiles"
-#~ msgstr "Kaži nastavitevene datoteke"
-
-#~ msgid "Edit Applications List"
-#~ msgstr "Uredi seznam programov"
-
-#~ msgid "Select applications to appear in menu for mime type \"%s\""
-#~ msgstr "Izberi programe, ki naj se kažejo v menuju tipov mime \"%s\""
-
-#~ msgid "Add Application..."
-#~ msgstr "Dodaj program..."
-
-#~ msgid "Edit Application..."
-#~ msgstr "Uredi program..."
-
-#~ msgid "Delete Application"
-#~ msgstr "Zbriši program"
-
-#~ msgid "Edit Components List"
-#~ msgstr "Uredi seznam komponent"
-
-#~ msgid "Select views to appear in menu for mime type \"%s\""
-#~ msgstr "Izberi poglede, ki naj se kažejo v menuju tipov mime \"%s\""
-
-#~ msgid ""
-#~ "The MIME type entered contained upper case characters. Upper case "
-#~ "characters were changed to lower case for you."
-#~ msgstr ""
-#~ "Vpisan tip MIME je vseboval velike črke. Samodejno so bile spremenjene v "
-#~ "male."
-
-#~ msgid "Add New MIME Type"
-#~ msgstr "Dodaj nov tip MIME"
-
-#~ msgid "Add Mime Type"
-#~ msgstr "Dodaj tip Mime"
-
-#~ msgid ""
-#~ "Add a new Mime Type\n"
-#~ "For example:  image/tiff; text/x-scheme"
-#~ msgstr ""
-#~ "Dodaj nov tip Mime\n"
-#~ "Na primer:  image/tiff; text/x-scheme"
-
-#~ msgid "Mime Type:"
-#~ msgstr "Tip mime:"
-
-#~ msgid "Type in a description for this mime-type."
-#~ msgstr "Vnesite opis tega tipa mime."
-
-#~ msgid "Description:"
-#~ msgstr "Opis:"
-
-#~ msgid "File Extensions "
-#~ msgstr "Pripone datotek "
-
-#~ msgid "Add..."
-#~ msgstr "Dodaj..."
-
-#~ msgid "    Remove    "
-#~ msgstr "    Odstrani  "
-
-#~ msgid "Add New Extension"
-#~ msgstr "Dodaj novo pripono"
-
-#~ msgid ""
-#~ "Type in the extensions for this mime-type.\n"
-#~ "For example:  .html, .htm"
-#~ msgstr ""
-#~ "Vnesite novo pripono za ta tip mime.\n"
-#~ "Na primer:  .html, .htm"
-
-#~ msgid "Extension:"
-#~ msgstr "Pripona:"
-
-#~ msgid "New Application"
-#~ msgstr "Nov program"
-
-#~ msgid "Application Command:"
-#~ msgstr "Ukaz programa:"
-
-#~ msgid "Open Behavior"
-#~ msgstr "Odpri obnašanje"
-
-#~ msgid "Can open multiple files"
-#~ msgstr "Lahko odpre več datotek"
-
-#~ msgid "Expects URIs as arguments"
-#~ msgstr "Kot argumente pričakuje URIje"
-
-#~ msgid "Edit Application"
-#~ msgstr "Uredi program"
-
-#~ msgid "Can open from URI"
-#~ msgstr "Lahko odpre iz URI-a"
-
-#~ msgid "Mime Type"
-#~ msgstr "Tip Mime"
-
-#~ msgid "Change Icon"
-#~ msgstr "Spremeni ikono"
-
-#~ msgid "Change File Extensions"
-#~ msgstr "Spremeni pripone datotek"
-
-#~ msgid "Default Action:"
-#~ msgstr "Privzeto dejanje:"
-
-#~ msgid "Use Viewer"
-#~ msgstr "Uporabi pregledovalnik"
-
-#~ msgid "Open With Application"
-#~ msgstr "Odpri s programom"
-
-#~ msgid "Edit List"
-#~ msgstr "Uredi seznam"
-
-#~ msgid "Add new Mime type..."
-#~ msgstr "Dodaj nov tip Mime..."
-
-#~ msgid "Delete this Mime type..."
-#~ msgstr "Zbriši ta tip Mime..."
-
-#~ msgid "Revert to System Defaults"
-#~ msgstr "Vrni na privzete sistemske nastavitve"
-
-#~ msgid "No Description"
-#~ msgstr "Ni opisa"
-
-#~ msgid "None"
-#~ msgstr "Brez"
-
-#~ msgid ""
-#~ "Reverting to system settings\n"
-#~ "will lose all your personal \n"
-#~ "Mime configuration.\n"
-#~ "Revert to System Settings ?\n"
-#~ msgstr ""
-#~ "Vrnitev na privzete sistemske\n"
-#~ "nastavitve bo povzročila izgubo vseh\n"
-#~ "osebnih Mime nastavitev.\n"
-#~ "Vrni na sistemske nastavitve ?\n"
-
-#~ msgid "none"
-#~ msgstr "brez"
-
-#~ msgid "View as %s"
-#~ msgstr "Poglej kot %s"
-
-#~ msgid "Description"
-#~ msgstr "Opis"
-
-#~ msgid "Extension"
-#~ msgstr "Pripona"
-
-#~ msgid "Default Action"
-#~ msgstr "Privzeto Dejanje"
-
-#~ msgid "Can't find an hbox, using a normal file selection"
-#~ msgstr "Ne najdem hbox, uporabljam običajno izbiranje datotek"
-
-#~ msgid "Preview"
-#~ msgstr "Predogled"
-
-#~ msgid "Unknown sort rule %d"
-#~ msgstr "Neznano pravilo urejanja %d"
-
-#~ msgid "Error writing to the wakeup MateVFSJob channel."
-#~ msgstr "Napaka pri bujenju kanala MateVFSJob."
-
-#~ msgid "Add"
-#~ msgstr "Dodaj"
-
-#~ msgid "Action"
-#~ msgstr "Dejanje"
-
-#~ msgid "HTTP server returned an invalid PROPFIND response"
-#~ msgstr "HTTP strežnik je vrnil napačen PROPFIND odgovor"
-
-#~ msgid "Application ID:"
-#~ msgstr "ID Programa:"
-
-#~ msgid "Default Application:"
-#~ msgstr "Privzet Program:"
-
-#~ msgid "Default Viewer:"
-#~ msgstr "Privzet Prikazovalnik:"
-
-#~ msgid "Select an icon..."
-#~ msgstr "Izberi ikono..."
-
-#~ msgid "No Default"
-#~ msgstr "Ni Privzeto"
-
-#~ msgid "Use Application"
-#~ msgstr "Uporabi Program"
-
-#~ msgid "Use None"
-#~ msgstr "Brez"
-
-#~ msgid "ftpfs: Invalid host name."
-#~ msgstr "ftpfs: Neveljavno ime gostitelja."
-
-#~ msgid "ftpfs: Invalid host address."
-#~ msgstr "ftpfs: Neveljaven naslov gostitelja."
-
-#~ msgid "ftpfs: making connection to %s"
-#~ msgstr "ftpfs: ustvarjam povezavo z %s"
-
-#~ msgid "ftpfs: connection interrupted by user"
-#~ msgstr "ftpfs: uporabnik je prekinil povezavo"
-
-#~ msgid "ftpfs: connection to server failed: %s"
-#~ msgstr "ftpfs: povezava do strežnika ni bila uspešna: %s"
-
-#~ msgid "Waiting to retry... %d (Control-C to cancel)"
-#~ msgstr "Čakam na nov poizkus... %d (Control-C za preklic)"
-
-#~ msgid " FTP: Password required for "
-#~ msgstr " FTP: Potrebno je geslo za "
-
-#~ msgid "ftpfs: sending login name"
-#~ msgstr "ftpfs: pošiljam ime za prijavo"
-
-#~ msgid "ftpfs: sending user password"
-#~ msgstr "ftpfs: pošiljam uporabnikovo geslo"
-
-#~ msgid "ftpfs: logged in"
-#~ msgstr "ftpfs: prijavljen sem"
-
-#~ msgid "ftpfs: Login incorrect for user %s "
-#~ msgstr "ftpfs: Napačna prijava za uporabnika %s "
-
-#~ msgid "ftpfs: aborting transfer."
-#~ msgstr "ftpfs: prekinjam prenos."
-
-#~ msgid "ftpfs: abort error: %s"
-#~ msgstr "ftpfs: prekinitvena napaka: %s"
-
-#~ msgid "ftpfs: abort failed"
-#~ msgstr "ftpfs: prekinitev ni uspela"
-
-#~ msgid "ftpfs: could not setup passive mode"
-#~ msgstr "ftpfs: ne morem nastaviti pasivnega načina"
-
-#~ msgid "ftpfs: storing file %d (%d)"
-#~ msgstr "ftpfs: shranjujem datoteko (%d) %D"
-
-#~ msgid "ftpfs: CWD failed."
-#~ msgstr "ftpfs: CWD (sprememba delovnega direktorija) ni uspela."
-
-#~ msgid "ftpfs: couldn't resolve symlink"
-#~ msgstr "ftpfs: ne morem razvozlati simbolične povezave"
-
-#~ msgid "Resolving symlink..."
-#~ msgstr "Razvozljujem simbolno povezavo..."
-
-#~ msgid "ftpfs: Reading FTP directory %s... (don't use UNIX ls options)"
-#~ msgstr "ftpfs: Berem FTP imenik %s... (ne uporabljam UNIX ls opcij)"
-
-#~ msgid "ftpfs: Reading FTP directory %s..."
-#~ msgstr "ftpfs: Berem FTP imenik %s..."
-
-#~ msgid "ftpfs: reading FTP directory interrupt by user"
-#~ msgstr "ftpfs: branje FTP imenika je prekinil uporabnik"
-
-#~ msgid "ftpfs: got listing"
-#~ msgstr "ftpfs: seznam dobljen"
-
-#~ msgid "ftpfs: failed; nowhere to fallback to"
-#~ msgstr "ftpfs: spodletel; ni več možnih rešitev"
-
-#~ msgid "Starting linear transfer..."
-#~ msgstr "Začenjam linearen prenos..."
-
-#~ msgid "Preparing reget..."
-#~ msgstr "Pripraljam ponvni prenos..."

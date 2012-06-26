@@ -1,1545 +1,1467 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # FSF-India <locale@gnu.org.in>, 2003.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version:mate-mime-data.HEAD\n"
-"POT-Creation-Date: 2003-06-06 04:23+0200\n"
-"PO-Revision-Date: 2003-07-05 10:29+0530\n"
-"Last-Translator: FSF-India <locale@gnu.org.in>\n"
-"Language-Team: Malayalam <locale@gnu.org.in>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-17 16:32+0100\n"
+"PO-Revision-Date: 2012-02-17 15:37+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ml\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: mate-vfs.keys.in.h:1
+#: ../mate-vfs.keys.in.h:1
+msgid "2D chemical structure"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:2
 msgid "3D Studio image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:2
-#, fuzzy
+#: ../mate-vfs.keys.in.h:3
 msgid "AIFC audio"
-msgstr "ശബ്ദം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:3
-#, fuzzy
+#: ../mate-vfs.keys.in.h:4
 msgid "AIFF audio"
-msgstr "ശബ്ദം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:4
-#, fuzzy
+#: ../mate-vfs.keys.in.h:5
 msgid "ANIM animation"
-msgstr "സചേതനം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:5
+#: ../mate-vfs.keys.in.h:6
 msgid "ARJ archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:6
+#: ../mate-vfs.keys.in.h:7
 msgid "AVI video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:7
-#, fuzzy
+#: ../mate-vfs.keys.in.h:8
 msgid "AbiWord document"
-msgstr "കൂടുതല് ഗ്രന്ഥങ്ങള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:8
+#: ../mate-vfs.keys.in.h:9
 msgid "Active Server page"
 msgstr ""
 
-#: mate-vfs.keys.in.h:9
+#: ../mate-vfs.keys.in.h:10
 msgid "Address card"
 msgstr ""
 
-#: mate-vfs.keys.in.h:10
+#: ../mate-vfs.keys.in.h:11
 msgid "Adobe FrameMaker font"
 msgstr ""
 
-#: mate-vfs.keys.in.h:11
+#: ../mate-vfs.keys.in.h:12
 msgid "Adobe font metrics"
 msgstr ""
 
-#: mate-vfs.keys.in.h:12
+#: ../mate-vfs.keys.in.h:13
 msgid "Andrew Toolkit inset"
 msgstr ""
 
-#: mate-vfs.keys.in.h:13
+#: ../mate-vfs.keys.in.h:14
 msgid "Application launcher"
 msgstr ""
 
-#: mate-vfs.keys.in.h:14
+#: ../mate-vfs.keys.in.h:15
 msgid "ApplixWare Graphics image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:15
+#: ../mate-vfs.keys.in.h:16
 msgid "Applixware Words document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:16
+#: ../mate-vfs.keys.in.h:17
 msgid "Applixware presentation"
 msgstr ""
 
-#: mate-vfs.keys.in.h:17
+#: ../mate-vfs.keys.in.h:18
 msgid "Applixware spreadsheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:18
+#: ../mate-vfs.keys.in.h:19
 msgid "Ar archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:19
+#: ../mate-vfs.keys.in.h:20
 msgid "Assembly source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:20
+#: ../mate-vfs.keys.in.h:21
 msgid "Audio"
 msgstr "ശബ്ദം"
 
-#: mate-vfs.keys.in.h:21
+#: ../mate-vfs.keys.in.h:22
 msgid "Authors list"
 msgstr ""
 
-#: mate-vfs.keys.in.h:22
-#, fuzzy
+#: ../mate-vfs.keys.in.h:23
 msgid "AutoCAD image"
-msgstr "സ്വയം സംരംക്ഷണം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:23
-#, fuzzy
+#: ../mate-vfs.keys.in.h:24
 msgid "BCPIO document"
-msgstr "രചന അച്ചടിക്കുക‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:24
-#, fuzzy
+#: ../mate-vfs.keys.in.h:25
 msgid "BDF font"
-msgstr "ഉള്ളടക്കത്തിന്റെ അക്ഷരരൂപം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:25
+#: ../mate-vfs.keys.in.h:26
 msgid "Backup file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:26
+#: ../mate-vfs.keys.in.h:27
 msgid "Basic audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:27
+#: ../mate-vfs.keys.in.h:28
 msgid "Bibliography record"
 msgstr ""
 
-#: mate-vfs.keys.in.h:28
+#: ../mate-vfs.keys.in.h:29
 msgid "Binary program"
 msgstr ""
 
-#: mate-vfs.keys.in.h:29
+#: ../mate-vfs.keys.in.h:30
+msgid "BitTorrent seed file"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:31
+msgid "Blender file"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:32
 msgid "Block device"
 msgstr ""
 
-#: mate-vfs.keys.in.h:30
+#: ../mate-vfs.keys.in.h:33
 msgid "Bzip2 compressed file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:31
+#: ../mate-vfs.keys.in.h:34
 msgid "C shell script"
 msgstr ""
 
-#: mate-vfs.keys.in.h:32
-#, fuzzy
+#: ../mate-vfs.keys.in.h:35
 msgid "C source code"
-msgstr "അക്ഷത്തിന്റെ കോഡ്:"
+msgstr ""
 
-#: mate-vfs.keys.in.h:33
+#: ../mate-vfs.keys.in.h:36
 msgid "C source code header"
 msgstr ""
 
-#: mate-vfs.keys.in.h:34
+#: ../mate-vfs.keys.in.h:37
 msgid "C++ source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:35
-#, fuzzy
+#: ../mate-vfs.keys.in.h:38
 msgid "CGI program"
-msgstr "പ്രയോഗം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:36
-#, fuzzy
+#: ../mate-vfs.keys.in.h:39
 msgid "CGM image"
-msgstr "ലോഗോ ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:37
+#: ../mate-vfs.keys.in.h:40
 msgid "CMU raster image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:38
-#, fuzzy
+#: ../mate-vfs.keys.in.h:41
 msgid "CPIO archive"
-msgstr "ആര്‍ക്കേവ് പക‌ര്‍‍ത്തുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:39
+#: ../mate-vfs.keys.in.h:42
 msgid "CPIO archive (Gzip-compressed)"
 msgstr ""
 
-#: mate-vfs.keys.in.h:40
+#: ../mate-vfs.keys.in.h:43
+msgid "Caja link"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:44
 msgid "Calendar file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:41
+#: ../mate-vfs.keys.in.h:45
 msgid "Calendar or event document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:42
+#: ../mate-vfs.keys.in.h:46
 msgid "Character device"
 msgstr ""
 
-#: mate-vfs.keys.in.h:43
+#: ../mate-vfs.keys.in.h:47
+msgid "Cinelerra editing sheet"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:48
 msgid "Comma-separated text document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:44
+#: ../mate-vfs.keys.in.h:49
 msgid "Commodore 64 audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:45
+#: ../mate-vfs.keys.in.h:50
 msgid "Compound document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:46
+#: ../mate-vfs.keys.in.h:51
 msgid "Compress-compressed file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:47
+#: ../mate-vfs.keys.in.h:52
 msgid "Compressed GIMP document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:48
+#: ../mate-vfs.keys.in.h:53
 msgid "Corel Draw drawing"
 msgstr ""
 
-#: mate-vfs.keys.in.h:49
-#, fuzzy
-msgid "DCL script"
-msgstr "വിവര സൂചകം"
+#: ../mate-vfs.keys.in.h:54
+msgid "Crystalline structure model"
+msgstr ""
 
-#: mate-vfs.keys.in.h:50
+#: ../mate-vfs.keys.in.h:55
+msgid "DCL script"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:56
 msgid "DOS font"
 msgstr ""
 
-#: mate-vfs.keys.in.h:51
+#: ../mate-vfs.keys.in.h:57
 msgid "DOS/Windows program"
 msgstr ""
 
-#: mate-vfs.keys.in.h:52
-#, fuzzy
+#: ../mate-vfs.keys.in.h:58
 msgid "DSSSL document"
-msgstr "രചന"
+msgstr ""
 
-#: mate-vfs.keys.in.h:53
-#, fuzzy
+#: ../mate-vfs.keys.in.h:59
+msgid "DV video"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:60
 msgid "DXF vector graphic"
-msgstr "xfig സദിശചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:54
-#, fuzzy
+#: ../mate-vfs.keys.in.h:61
 msgid "Debian package"
-msgstr "പ്രധാന പട്ടിക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:55
+#: ../mate-vfs.keys.in.h:62
 msgid "Device Independant Bitmap"
 msgstr ""
 
-#: mate-vfs.keys.in.h:56
-#, fuzzy
+#: ../mate-vfs.keys.in.h:63
 msgid "Dia diagram"
-msgstr "ആരേഖം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:57
+#: ../mate-vfs.keys.in.h:64
 msgid "Digital Imaging and Communications in Medicine image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:58
+#: ../mate-vfs.keys.in.h:65
 msgid "Digital Moving Picture Exchange image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:59
+#: ../mate-vfs.keys.in.h:66
 msgid "Directory information file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:60
+#: ../mate-vfs.keys.in.h:67
+msgid "DjVu image"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:68
 msgid "Document type definition"
 msgstr ""
 
-#: mate-vfs.keys.in.h:61
+#: ../mate-vfs.keys.in.h:69
 msgid "Documents"
 msgstr "ഗ്രന്ഥങ്ങള്"
 
-#: mate-vfs.keys.in.h:62
-#, fuzzy
+#: ../mate-vfs.keys.in.h:70
 msgid "Documents/Diagram"
-msgstr "ഗ്രന്ഥങ്ങള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:63
+#: ../mate-vfs.keys.in.h:71
 msgid "Documents/Extended Markup Language (XML)"
 msgstr ""
 
-#: mate-vfs.keys.in.h:64
-#, fuzzy
+#: ../mate-vfs.keys.in.h:72
 msgid "Documents/Numeric"
-msgstr "സഹായ ഗ്രന്ഥ ക‍ര്ത്താക്കള്‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:65
-#, fuzzy
+#: ../mate-vfs.keys.in.h:73
 msgid "Documents/Plain Text"
-msgstr "സഹായഗ്രന്ഥങ്ങള്:"
+msgstr ""
 
-#: mate-vfs.keys.in.h:66
-#, fuzzy
+#: ../mate-vfs.keys.in.h:74
 msgid "Documents/Presentation"
-msgstr "സഹായഗ്രന്ഥങ്ങള്:"
+msgstr ""
 
-#: mate-vfs.keys.in.h:67
-#, fuzzy
+#: ../mate-vfs.keys.in.h:75
 msgid "Documents/Project Management"
-msgstr "പദ്ധതിനിര്‍വ്വഹണം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:68
+#: ../mate-vfs.keys.in.h:76
 msgid "Documents/Published Materials"
 msgstr ""
 
-#: mate-vfs.keys.in.h:69
-#, fuzzy
+#: ../mate-vfs.keys.in.h:77
 msgid "Documents/Spreadsheet"
-msgstr "സഹായ ഗ്രന്ഥ ക‍ര്ത്താക്കള്‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:70
-#, fuzzy
+#: ../mate-vfs.keys.in.h:78
 msgid "Documents/TeX"
-msgstr "ഗ്രന്ഥങ്ങള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:71
-#, fuzzy
+#: ../mate-vfs.keys.in.h:79
 msgid "Documents/Text Markup"
-msgstr "സഹായ ഗ്രന്ഥ ക‍ര്ത്താക്കള്‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:72
-#, fuzzy
+#: ../mate-vfs.keys.in.h:80
 msgid "Documents/Vector Graphics"
-msgstr "സഹായ ഗ്രന്ഥ ക‍ര്ത്താക്കള്‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:73
+#: ../mate-vfs.keys.in.h:81
 msgid "Documents/Word Processor"
 msgstr ""
 
-#: mate-vfs.keys.in.h:74
+#: ../mate-vfs.keys.in.h:82
 msgid "Documents/World Wide Web"
 msgstr ""
 
-#: mate-vfs.keys.in.h:75
-#, fuzzy
+#: ../mate-vfs.keys.in.h:83
 msgid "Dolby Digital audio"
-msgstr "CD സാംഖിക ശ്രവണം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:76
+#: ../mate-vfs.keys.in.h:84
 msgid "Dreamcast ROM"
 msgstr ""
 
-#: mate-vfs.keys.in.h:77
+#: ../mate-vfs.keys.in.h:85
 msgid "Emacs Lisp source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:78
+#: ../mate-vfs.keys.in.h:86
 msgid "Email headers"
 msgstr ""
 
-#: mate-vfs.keys.in.h:79
+#: ../mate-vfs.keys.in.h:87
 msgid "Email message/mailbox"
 msgstr ""
 
-#: mate-vfs.keys.in.h:80
+#: ../mate-vfs.keys.in.h:88
 msgid "Encrypted message"
 msgstr ""
 
-#: mate-vfs.keys.in.h:81
-#, fuzzy
+#: ../mate-vfs.keys.in.h:89
 msgid "Enlightenment theme"
-msgstr "വിവരമണ‍്ഡല സമയം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:82
+#: ../mate-vfs.keys.in.h:90
 msgid "Enriched text document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:83
+#: ../mate-vfs.keys.in.h:91
 msgid "Epiphany bookmarks file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:84
-#, fuzzy
+#: ../mate-vfs.keys.in.h:92
 msgid "FLAC audio"
-msgstr "ശബ്ദം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:85
-#, fuzzy
+#: ../mate-vfs.keys.in.h:93
 msgid "FLC animation"
-msgstr "സചേതനം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:86
-#, fuzzy
+#: ../mate-vfs.keys.in.h:94
 msgid "FLI animation"
-msgstr "സചേതനം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:87
+#: ../mate-vfs.keys.in.h:95
 msgid "FastTracker II audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:88
-#, fuzzy
+#: ../mate-vfs.keys.in.h:96
 msgid "FlashPix Image"
 msgstr ""
-"പതാക\n"
-"ബിന്ദുചിത്രം"
 
-#: mate-vfs.keys.in.h:89
+#: ../mate-vfs.keys.in.h:97
 msgid "Flexible Image Transport System"
 msgstr ""
 
-#: mate-vfs.keys.in.h:90
+#: ../mate-vfs.keys.in.h:98
 msgid "Folder"
 msgstr "കൂട്"
 
-#: mate-vfs.keys.in.h:91
+#: ../mate-vfs.keys.in.h:99
 msgid "Fortran source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:92
-#, fuzzy
+#: ../mate-vfs.keys.in.h:100
 msgid "FrameMaker interchange document"
-msgstr "പുതിയ രചന ഉണ്ടാക്കുക"
-
-#: mate-vfs.keys.in.h:93
-#, fuzzy
-msgid "G3 fax image"
-msgstr "ഗെയിം ഉപയോഗം"
-
-#: mate-vfs.keys.in.h:94
-#, fuzzy
-msgid "GIF image"
-msgstr "ചിത്രം"
-
-#: mate-vfs.keys.in.h:95
-#, fuzzy
-msgid "GIMP document"
-msgstr "ഗ്രന്ഥങ്ങള്"
-
-#: mate-vfs.keys.in.h:96
-#, fuzzy
-msgid "GMC link"
-msgstr "ബന്ധം"
-
-#: mate-vfs.keys.in.h:97
-msgid "MATE desktop theme"
 msgstr ""
 
-#: mate-vfs.keys.in.h:98
+#: ../mate-vfs.keys.in.h:101
+msgid "G3 fax image"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:102
+msgid "GIF image"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:103
+msgid "GIMP document"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:104
+msgid "GMC link"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:105
 msgid "GNU Oleo Spreadsheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:99
-#, fuzzy
+#: ../mate-vfs.keys.in.h:106
 msgid "GNU mail message"
-msgstr "സന്ദേശത്തിലെ അടുത്ത ഭാഗം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:100
-#, fuzzy
+#: ../mate-vfs.keys.in.h:107
 msgid "GTK configuration"
-msgstr "അനുരൂപമാക്കല്‍"
+msgstr ""
 
-#: mate-vfs.keys.in.h:101
+#: ../mate-vfs.keys.in.h:108
 msgid "Game Boy ROM"
 msgstr ""
 
-#: mate-vfs.keys.in.h:102
+#: ../mate-vfs.keys.in.h:109
 msgid "Genesis ROM"
 msgstr ""
 
-#: mate-vfs.keys.in.h:103
-#, fuzzy
+#: ../mate-vfs.keys.in.h:110
 msgid "Glade project"
-msgstr "പുതിയ പദ്ധതി"
+msgstr ""
 
-#: mate-vfs.keys.in.h:104
+#: ../mate-vfs.keys.in.h:111
 msgid "GnuCash workbook"
 msgstr ""
 
-#: mate-vfs.keys.in.h:105
+#: ../mate-vfs.keys.in.h:112
 msgid "Gnumeric spreadsheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:106
+#: ../mate-vfs.keys.in.h:113
 msgid "Gtar archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:107
+#: ../mate-vfs.keys.in.h:114
 msgid "Gtktalog Catalogue"
 msgstr ""
 
-#: mate-vfs.keys.in.h:108
+#: ../mate-vfs.keys.in.h:115
 msgid "Gzip-compressed file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:109
-#, fuzzy
+#: ../mate-vfs.keys.in.h:116
 msgid "HDF document"
-msgstr "രചന"
+msgstr ""
 
-#: mate-vfs.keys.in.h:110
-#, fuzzy
+#: ../mate-vfs.keys.in.h:117
 msgid "HTML page"
-msgstr "പ്രധാന താള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:111
+#: ../mate-vfs.keys.in.h:118
 msgid "Haskell source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:112
+#: ../mate-vfs.keys.in.h:119
 msgid "Help page"
 msgstr ""
 
-#: mate-vfs.keys.in.h:113
-#, fuzzy
+#: ../mate-vfs.keys.in.h:120
 msgid "IDL document"
-msgstr "രചന"
+msgstr ""
 
-#: mate-vfs.keys.in.h:114
-#, fuzzy
+#: ../mate-vfs.keys.in.h:121
 msgid "IEF image"
-msgstr "ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:115
-#, fuzzy
+#: ../mate-vfs.keys.in.h:122
 msgid "IFF image"
-msgstr "ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:116
-#, fuzzy
+#: ../mate-vfs.keys.in.h:123
 msgid "ILBM image"
-msgstr "ലോഗോ ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:117
+#: ../mate-vfs.keys.in.h:124
 msgid "ISI video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:118
-#, fuzzy
+#: ../mate-vfs.keys.in.h:125
 msgid "ISO image"
-msgstr "ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:119
+#: ../mate-vfs.keys.in.h:126
 msgid "Images"
 msgstr "ചിത്രങ്ങള്‌"
 
-#: mate-vfs.keys.in.h:120
+#: ../mate-vfs.keys.in.h:127
 msgid "Impulse Tracker audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:121
+#: ../mate-vfs.keys.in.h:128
 msgid "Information"
 msgstr "വിവരം"
 
-#: mate-vfs.keys.in.h:122
-#, fuzzy
+#: ../mate-vfs.keys.in.h:129
 msgid "Information/Calendar"
-msgstr "വിവരം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:123
-#, fuzzy
+#: ../mate-vfs.keys.in.h:130
 msgid "Information/Financial"
-msgstr "വിവരം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:124
+#: ../mate-vfs.keys.in.h:131
 msgid "Installed MATE desktop theme"
 msgstr ""
 
-#: mate-vfs.keys.in.h:125
-#, fuzzy
+#: ../mate-vfs.keys.in.h:132
 msgid "JBuilder Project"
-msgstr "പുതിയ പദ്ധതി"
+msgstr ""
 
-#: mate-vfs.keys.in.h:126
-#, fuzzy
+#: ../mate-vfs.keys.in.h:133
 msgid "JPEG image"
-msgstr "JPEG  ഛായാരീതി"
+msgstr ""
 
-#: mate-vfs.keys.in.h:127
+#: ../mate-vfs.keys.in.h:134
 msgid "Java byte code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:128
+#: ../mate-vfs.keys.in.h:135
 msgid "Java code archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:129
+#: ../mate-vfs.keys.in.h:136
 msgid "Java source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:130
-#, fuzzy
+#: ../mate-vfs.keys.in.h:137
+msgid "JavaScript source code"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:138
 msgid "KDE application details"
-msgstr "പ്രയോഗം അവസാനിപ്പിക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:131
-#, fuzzy
+#: ../mate-vfs.keys.in.h:139
 msgid "KIllustrator document"
-msgstr "രചനയില്‌ നിന്ന്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:132
-#, fuzzy
+#: ../mate-vfs.keys.in.h:140
 msgid "KPresenter presentation"
-msgstr "അവതരണം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:133
+#: ../mate-vfs.keys.in.h:141
 msgid "KSpread spreadsheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:134
-#, fuzzy
+#: ../mate-vfs.keys.in.h:142
 msgid "KWord document"
-msgstr " രചനയില്‌ നിന്ന്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:135
+#: ../mate-vfs.keys.in.h:143
 msgid "Korn shell script"
 msgstr ""
 
-#: mate-vfs.keys.in.h:136
-#, fuzzy
+#: ../mate-vfs.keys.in.h:144
 msgid "LHA archive"
-msgstr "ഭണ്ടാരം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:137
-#, fuzzy
+#: ../mate-vfs.keys.in.h:145
 msgid "LHARC archive"
-msgstr "ആര്‍ക്കേവ് പക‌ര്‍‍ത്തുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:138
+#: ../mate-vfs.keys.in.h:146
 msgid "LIBGRX font"
 msgstr ""
 
-#: mate-vfs.keys.in.h:139
+#: ../mate-vfs.keys.in.h:147
 msgid "LightWave object"
 msgstr ""
 
-#: mate-vfs.keys.in.h:140
+#: ../mate-vfs.keys.in.h:148
 msgid "LightWave scene"
 msgstr ""
 
-#: mate-vfs.keys.in.h:141
+#: ../mate-vfs.keys.in.h:149
 msgid "Linux PSF console font"
 msgstr ""
 
-#: mate-vfs.keys.in.h:142
+#: ../mate-vfs.keys.in.h:150
 msgid "Literate haskell source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:143
+#: ../mate-vfs.keys.in.h:151
 msgid "Lotus 1-2-3 spreadsheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:144
+#: ../mate-vfs.keys.in.h:152
 msgid "LyX document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:145
+#: ../mate-vfs.keys.in.h:153
+msgid "MATE desktop theme"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:154
 msgid "MIDI audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:146
-#, fuzzy
+#: ../mate-vfs.keys.in.h:155
 msgid "MOD audio"
-msgstr "തരംഗ ശ്രവണം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:147
-#, fuzzy
+#: ../mate-vfs.keys.in.h:156
 msgid "MP3 audio"
-msgstr "തരംഗ ശ്രവണം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:148
+#: ../mate-vfs.keys.in.h:157
 msgid "MP3 audio playlist"
 msgstr ""
 
-#: mate-vfs.keys.in.h:149
+#: ../mate-vfs.keys.in.h:158
 msgid "MPEG video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:150
+#: ../mate-vfs.keys.in.h:159
+msgid "MPEG-4 audio"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:160
+msgid "MS ASF audio"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:161
 msgid "MS ASF video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:151
+#: ../mate-vfs.keys.in.h:162
 msgid "MS video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:152
+#: ../mate-vfs.keys.in.h:163
 msgid "MSX ROM"
 msgstr ""
 
-#: mate-vfs.keys.in.h:153
-#, fuzzy
+#: ../mate-vfs.keys.in.h:164
 msgid "MacBinary file"
-msgstr "അരിപ്പുകള്‌ കൈകാര്യം ചെയ്യ‍ുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:154
+#: ../mate-vfs.keys.in.h:165
 msgid "Macintosh AppleDouble-encoded file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:155
+#: ../mate-vfs.keys.in.h:166
 msgid "Macintosh BinHex-encoded file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:156
+#: ../mate-vfs.keys.in.h:167
 msgid "Macintosh StuffIt archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:157
+#: ../mate-vfs.keys.in.h:168
 msgid "Macromedia Flash file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:158
-#, fuzzy
-msgid "Magick image format"
-msgstr "ടാഗാ ഛായാചിത്രരീതി"
+#: ../mate-vfs.keys.in.h:169
+msgid "MagicPoint presentation"
+msgstr ""
 
-#: mate-vfs.keys.in.h:159
+#: ../mate-vfs.keys.in.h:170
+msgid "Magick image format"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:171
 msgid "Mail delivery report"
 msgstr ""
 
-#: mate-vfs.keys.in.h:160
+#: ../mate-vfs.keys.in.h:172
 msgid "Mail disposition report"
 msgstr ""
 
-#: mate-vfs.keys.in.h:161
+#: ../mate-vfs.keys.in.h:173
 msgid "Mail system report"
 msgstr ""
 
-#: mate-vfs.keys.in.h:162
+#: ../mate-vfs.keys.in.h:174
 msgid "Makefile"
 msgstr ""
 
-#: mate-vfs.keys.in.h:163
+#: ../mate-vfs.keys.in.h:175
 msgid "Manual page"
 msgstr ""
 
-#: mate-vfs.keys.in.h:164
+#: ../mate-vfs.keys.in.h:176
 msgid "Manual page (compressed)"
 msgstr ""
 
-#: mate-vfs.keys.in.h:165
+#: ../mate-vfs.keys.in.h:177
 msgid "Master System or Game Gear ROM"
 msgstr ""
 
-#: mate-vfs.keys.in.h:166
-#, fuzzy
+#: ../mate-vfs.keys.in.h:178
 msgid "MathML document"
-msgstr "രചനയില്‌ നിന്ന്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:167
+#: ../mate-vfs.keys.in.h:179
+msgid "Matroska video"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:180
 msgid "Memory dump"
 msgstr ""
 
-#: mate-vfs.keys.in.h:168
+#: ../mate-vfs.keys.in.h:181
 msgid "Message"
 msgstr "സന്ദേശം"
 
-#: mate-vfs.keys.in.h:169
+#: ../mate-vfs.keys.in.h:182
 msgid "Message digest"
 msgstr ""
 
-#: mate-vfs.keys.in.h:170
+#: ../mate-vfs.keys.in.h:183
 msgid "Message in several formats"
 msgstr ""
 
-#: mate-vfs.keys.in.h:171
+#: ../mate-vfs.keys.in.h:184
 msgid "Microsoft Excel spreadsheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:172
-#, fuzzy
+#: ../mate-vfs.keys.in.h:185
 msgid "Microsoft PowerPoint document"
-msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:173
+#: ../mate-vfs.keys.in.h:186
 msgid "Microsoft WMV playlist"
 msgstr ""
 
-#: mate-vfs.keys.in.h:174
+#: ../mate-vfs.keys.in.h:187
 msgid "Microsoft WMV video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:175
-#, fuzzy
+#: ../mate-vfs.keys.in.h:188
 msgid "Microsoft Word document"
-msgstr "രചനയില്‌ നിന്ന്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:176
+#: ../mate-vfs.keys.in.h:189
 msgid "Microsoft video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:177
+#: ../mate-vfs.keys.in.h:190
 msgid "Monkey audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:178
+#: ../mate-vfs.keys.in.h:191
 msgid "Mozilla bookmarks file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:179
+#: ../mate-vfs.keys.in.h:192
 msgid "Multi-part message"
 msgstr ""
 
-#: mate-vfs.keys.in.h:180
+#: ../mate-vfs.keys.in.h:193
 msgid "NES ROM"
 msgstr ""
 
-#: mate-vfs.keys.in.h:181
+#: ../mate-vfs.keys.in.h:194
 msgid "Named pipe"
 msgstr ""
 
-#: mate-vfs.keys.in.h:182
-#, fuzzy
-msgid "Caja link"
-msgstr "നോട്ടിലസ്"
-
-#: mate-vfs.keys.in.h:183
+#: ../mate-vfs.keys.in.h:195
 msgid "Netscape bookmarks file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:184
+#: ../mate-vfs.keys.in.h:196
 msgid "Nintendo64 ROM"
 msgstr ""
 
-#: mate-vfs.keys.in.h:185
+#: ../mate-vfs.keys.in.h:197
 msgid "Nullsoft video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:186
-#, fuzzy
+#: ../mate-vfs.keys.in.h:198
 msgid "ODA document"
-msgstr "രചന"
+msgstr ""
 
-#: mate-vfs.keys.in.h:187
+#: ../mate-vfs.keys.in.h:199
 msgid "Object code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:188
+#: ../mate-vfs.keys.in.h:200
+msgid "Objective C source code"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:201
 msgid "Ogg audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:189
+#: ../mate-vfs.keys.in.h:202
 msgid "OpenOffice.org Impress presentation"
 msgstr ""
 
-#: mate-vfs.keys.in.h:190
+#: ../mate-vfs.keys.in.h:203
 msgid "OpenOffice.org Impress presentation template"
 msgstr ""
 
-#: mate-vfs.keys.in.h:191
+#: ../mate-vfs.keys.in.h:204
 msgid "OpenOffice.org Math document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:192
+#: ../mate-vfs.keys.in.h:205
 msgid "OpenOffice.org Writer document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:193
+#: ../mate-vfs.keys.in.h:206
 msgid "OpenOffice.org Writer global document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:194
+#: ../mate-vfs.keys.in.h:207
 msgid "OpenOffice.org Writer template"
 msgstr ""
 
-#: mate-vfs.keys.in.h:195
-#, fuzzy
+#: ../mate-vfs.keys.in.h:208
 msgid "OpenOffice.org drawing"
-msgstr "സുതാര്യ ഓഫീസ്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:196
+#: ../mate-vfs.keys.in.h:209
 msgid "OpenOffice.org drawing template"
 msgstr ""
 
-#: mate-vfs.keys.in.h:197
+#: ../mate-vfs.keys.in.h:210
 msgid "OpenOffice.org spreadsheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:198
+#: ../mate-vfs.keys.in.h:211
 msgid "OpenOffice.org spreadsheet template"
 msgstr ""
 
-#: mate-vfs.keys.in.h:199
-#, fuzzy
+#: ../mate-vfs.keys.in.h:212
 msgid "OpenType font"
-msgstr "സൂചനാതരം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:200
-#, fuzzy
+#: ../mate-vfs.keys.in.h:213
 msgid "PBM image"
-msgstr "അവ്യക്ത ഛായ"
+msgstr ""
 
-#: mate-vfs.keys.in.h:201
+#: ../mate-vfs.keys.in.h:214
 msgid "PC Paintbrush image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:202
-#, fuzzy
+#: ../mate-vfs.keys.in.h:215
 msgid "PCF font"
-msgstr "അക്ഷരരൂപം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:203
-#, fuzzy
+#: ../mate-vfs.keys.in.h:216
 msgid "PDF document"
-msgstr "രചന"
+msgstr ""
 
-#: mate-vfs.keys.in.h:204
-#, fuzzy
+#: ../mate-vfs.keys.in.h:217
 msgid "PEF program"
-msgstr "നിര്‍ദ്ദേശ-സംഹിത"
+msgstr ""
 
-#: mate-vfs.keys.in.h:205
-#, fuzzy
+#: ../mate-vfs.keys.in.h:218
 msgid "PGM image"
-msgstr "ലോഗോ ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:206
-#, fuzzy
+#: ../mate-vfs.keys.in.h:219
 msgid "PGN chess game"
-msgstr "അല്പ്പനേരത്തേക്ക് കളി നിര്ത്തി വെയ്‍ക്കാം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:207
+#: ../mate-vfs.keys.in.h:220
 msgid "PGP keys"
 msgstr ""
 
-#: mate-vfs.keys.in.h:208
-#, fuzzy
+#: ../mate-vfs.keys.in.h:221
 msgid "PGP message"
-msgstr "കത്ത് അച്ചടിക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:209
-#, fuzzy
+#: ../mate-vfs.keys.in.h:222
 msgid "PGP signature"
-msgstr "ഒപ്പ് പരിശോധിക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:210
+#: ../mate-vfs.keys.in.h:223
 msgid "PGP-encrypted file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:211
+#: ../mate-vfs.keys.in.h:224
 msgid "PHP script"
 msgstr ""
 
-#: mate-vfs.keys.in.h:212
-#, fuzzy
+#: ../mate-vfs.keys.in.h:225
 msgid "PICT image"
-msgstr "ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:213
-#, fuzzy
+#: ../mate-vfs.keys.in.h:226
 msgid "PNG image"
-msgstr "ചിത്രമില്ല"
+msgstr ""
 
-#: mate-vfs.keys.in.h:214
-#, fuzzy
+#: ../mate-vfs.keys.in.h:227
 msgid "PNM image"
-msgstr "ചിത്രമില്ല"
+msgstr ""
 
-#: mate-vfs.keys.in.h:215
-#, fuzzy
+#: ../mate-vfs.keys.in.h:228
 msgid "PPM image"
-msgstr "ലോഗോ ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:216
-#, fuzzy
+#: ../mate-vfs.keys.in.h:229
 msgid "Packages"
-msgstr "പൊതി"
+msgstr ""
 
-#: mate-vfs.keys.in.h:217
-#, fuzzy
+#: ../mate-vfs.keys.in.h:230
 msgid "Palm OS database"
-msgstr "വസ്തുതാശേഖരം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:218
+#: ../mate-vfs.keys.in.h:231
 msgid "Palm Pixmap image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:219
+#: ../mate-vfs.keys.in.h:232
 msgid "Partial email message"
 msgstr ""
 
-#: mate-vfs.keys.in.h:220
+#: ../mate-vfs.keys.in.h:233
 msgid "Pascal source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:221
-#, fuzzy
+#: ../mate-vfs.keys.in.h:234
 msgid "Perl script"
-msgstr "വിവര സൂചകം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:222
-#, fuzzy
+#: ../mate-vfs.keys.in.h:235
 msgid "Photo CD image"
-msgstr "ലോഗോ ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:223
-#, fuzzy
+#: ../mate-vfs.keys.in.h:236
 msgid "Photoshop document"
-msgstr "രചനയില്‌ നിന്ന്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:224
+#: ../mate-vfs.keys.in.h:237
 msgid "Plain text document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:225
-#, fuzzy
+#: ../mate-vfs.keys.in.h:238
 msgid "Playlist"
-msgstr "കളിക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:226
+#: ../mate-vfs.keys.in.h:239
 msgid "PostScript Type 1 font"
 msgstr ""
 
-#: mate-vfs.keys.in.h:227
-#, fuzzy
+#: ../mate-vfs.keys.in.h:240
 msgid "PostScript document"
-msgstr "പുതിയ രചന തുറക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:228
+#: ../mate-vfs.keys.in.h:241
 msgid "Profiler results"
 msgstr ""
 
-#: mate-vfs.keys.in.h:229
-#, fuzzy
+#: ../mate-vfs.keys.in.h:242
 msgid "Project Plan"
-msgstr "പദ്ധതി"
+msgstr ""
 
-#: mate-vfs.keys.in.h:230
+#: ../mate-vfs.keys.in.h:243
 msgid "Python byte code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:231
+#: ../mate-vfs.keys.in.h:244
 msgid "Python source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:232
+#: ../mate-vfs.keys.in.h:245
 msgid "QuickTime movie"
 msgstr ""
 
-#: mate-vfs.keys.in.h:233
-#, fuzzy
+#: ../mate-vfs.keys.in.h:246
 msgid "Quicken document"
-msgstr "രചന അച്ചടിക്കുക‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:234
+#: ../mate-vfs.keys.in.h:247
 msgid "Quicken for Windows document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:235
-#, fuzzy
+#: ../mate-vfs.keys.in.h:248
 msgid "RAR archive"
-msgstr "ഭണ്ടാരം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:236
-#, fuzzy
+#: ../mate-vfs.keys.in.h:249
 msgid "README document"
-msgstr "രചന"
+msgstr ""
 
-#: mate-vfs.keys.in.h:237
-#, fuzzy
+#: ../mate-vfs.keys.in.h:250
 msgid "RGB image"
-msgstr "അവ്യക്ത ഛായ"
+msgstr ""
 
-#: mate-vfs.keys.in.h:238
+#: ../mate-vfs.keys.in.h:251
 msgid "RIFF audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:239
-#, fuzzy
+#: ../mate-vfs.keys.in.h:252
 msgid "RPM package"
-msgstr "പൊതി"
+msgstr ""
 
-#: mate-vfs.keys.in.h:240
+#: ../mate-vfs.keys.in.h:253
 msgid "Raw Gray Sample"
 msgstr ""
 
-#: mate-vfs.keys.in.h:241
-#, fuzzy
+#: ../mate-vfs.keys.in.h:254
 msgid "RealAudio document"
-msgstr "കൂടുതല് ഗ്രന്ഥങ്ങള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:242
-#, fuzzy
+#: ../mate-vfs.keys.in.h:255
 msgid "RealAudio/Video document"
-msgstr "നിലവിലുള്ള രചന പുതുക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:243
+#: ../mate-vfs.keys.in.h:256
 msgid "RealVideo video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:244
+#: ../mate-vfs.keys.in.h:257
 msgid "Reference to remote file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:245
+#: ../mate-vfs.keys.in.h:258
 msgid "Rejected patch file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:246
+#: ../mate-vfs.keys.in.h:259
 msgid "Rich text document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:247
-#, fuzzy
+#: ../mate-vfs.keys.in.h:260
 msgid "S/MIME file"
-msgstr "CLOSE പരാചയപ്പെട്ടു."
+msgstr ""
 
-#: mate-vfs.keys.in.h:248
-#, fuzzy
+#: ../mate-vfs.keys.in.h:261
 msgid "S/MIME signature"
-msgstr "ഒപ്പ് പരിശോധിക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:249
+#: ../mate-vfs.keys.in.h:262
 msgid "SGI video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:250
-#, fuzzy
+#: ../mate-vfs.keys.in.h:263
 msgid "SGML document"
-msgstr "SGML ജിനോം പ്രസ്ഥാവങ്ങള്‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:251
+#: ../mate-vfs.keys.in.h:264
 msgid "SHOUTcast playlist"
 msgstr ""
 
-#: mate-vfs.keys.in.h:252
-#, fuzzy
+#: ../mate-vfs.keys.in.h:265
 msgid "SMIL script"
-msgstr "നിര്‍ദ്ദേശ-സംഹിത‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:253
-#, fuzzy
+#: ../mate-vfs.keys.in.h:266
 msgid "SQL code"
-msgstr "സങ്കേതം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:254
+#: ../mate-vfs.keys.in.h:267
 msgid "SUN Rasterfile"
 msgstr ""
 
-#: mate-vfs.keys.in.h:255
-#, fuzzy
+#: ../mate-vfs.keys.in.h:268
 msgid "SV4 CPIO archive"
-msgstr "ആര്‍ക്കേവ് പക‌ര്‍‍ത്തുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:256
+#: ../mate-vfs.keys.in.h:269
 msgid "SV4 CPIP archive (with CRC)"
 msgstr ""
 
-#: mate-vfs.keys.in.h:257
-#, fuzzy
+#: ../mate-vfs.keys.in.h:270
 msgid "SVG art"
-msgstr "തുടങ്ങുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:258
+#: ../mate-vfs.keys.in.h:271
 msgid "Samba share"
 msgstr ""
 
-#: mate-vfs.keys.in.h:259
-#, fuzzy
+#: ../mate-vfs.keys.in.h:272
 msgid "Scheme source code"
-msgstr "അക്ഷത്തിന്റെ കോഡ് തെരഞ്ഞെടുക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:260
+#: ../mate-vfs.keys.in.h:273
 msgid "Scream Tracker 3 audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:261
+#: ../mate-vfs.keys.in.h:274
 msgid "Scream Tracker audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:262
+#: ../mate-vfs.keys.in.h:275
 msgid "Scream Tracker instrument"
 msgstr ""
 
-#: mate-vfs.keys.in.h:263
+#: ../mate-vfs.keys.in.h:276
 msgid "Search results"
 msgstr ""
 
-#: mate-vfs.keys.in.h:264
+#: ../mate-vfs.keys.in.h:277
 msgid "Security"
 msgstr "സുരക്ഷ"
 
-#: mate-vfs.keys.in.h:265
-#, fuzzy
+#: ../mate-vfs.keys.in.h:278
 msgid "Setext document"
-msgstr "രചനയില്‌ നിന്ന്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:266
+#: ../mate-vfs.keys.in.h:279
 msgid "Shared Printer"
 msgstr ""
 
-#: mate-vfs.keys.in.h:267
+#: ../mate-vfs.keys.in.h:280
 msgid "Shared library"
 msgstr ""
 
-#: mate-vfs.keys.in.h:268
+#: ../mate-vfs.keys.in.h:281
 msgid "Shell archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:269
+#: ../mate-vfs.keys.in.h:282
 msgid "Shell script"
 msgstr ""
 
-#: mate-vfs.keys.in.h:270
+#: ../mate-vfs.keys.in.h:283
 msgid "Signed message"
 msgstr ""
 
-#: mate-vfs.keys.in.h:271
+#: ../mate-vfs.keys.in.h:284
 msgid "Silicon Graphics image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:272
+#: ../mate-vfs.keys.in.h:285
 msgid "Socket"
 msgstr ""
 
-#: mate-vfs.keys.in.h:273
-#, fuzzy
+#: ../mate-vfs.keys.in.h:286
 msgid "Software Development"
-msgstr "മൃദുസാമഗ്രി നിര്മ്മിക്കുവാനുള്ള ഉപകരങ്ങള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:274
+#: ../mate-vfs.keys.in.h:287
 msgid "Software Development/ROM Images"
 msgstr ""
 
-#: mate-vfs.keys.in.h:275
+#: ../mate-vfs.keys.in.h:288
 msgid "Software Development/Source Code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:276
+#: ../mate-vfs.keys.in.h:289
 msgid "Software author credits"
 msgstr ""
 
-#: mate-vfs.keys.in.h:277
+#: ../mate-vfs.keys.in.h:290
 msgid "Software installation instructions"
 msgstr ""
 
-#: mate-vfs.keys.in.h:278
+#: ../mate-vfs.keys.in.h:291
 msgid "Software license terms"
 msgstr ""
 
-#: mate-vfs.keys.in.h:279
+#: ../mate-vfs.keys.in.h:292
 msgid "Source code patch"
 msgstr ""
 
-#: mate-vfs.keys.in.h:280
-#, fuzzy
+#: ../mate-vfs.keys.in.h:293
 msgid "Speech document"
-msgstr "ആധാരം മുഴുവന്‌ തെരഞ്ഞെടുക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:281
-#, fuzzy
+#: ../mate-vfs.keys.in.h:294
 msgid "Speedo font"
-msgstr "തലവാചക അക്ഷരരൂപം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:282
-#, fuzzy
+#: ../mate-vfs.keys.in.h:295
 msgid "Spreadsheet Interchange document"
-msgstr "പുതിയ രചന ഉണ്ടാക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:283
+#: ../mate-vfs.keys.in.h:296
 msgid "Stampede package"
 msgstr ""
 
-#: mate-vfs.keys.in.h:284
+#: ../mate-vfs.keys.in.h:297
 msgid "StarCalc spreadsheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:285
+#: ../mate-vfs.keys.in.h:298
 msgid "StarChart chart"
 msgstr ""
 
-#: mate-vfs.keys.in.h:286
-#, fuzzy
+#: ../mate-vfs.keys.in.h:299
 msgid "StarDraw drawing"
-msgstr "വരയ്‌ക്കുന്നു"
+msgstr ""
 
-#: mate-vfs.keys.in.h:287
-#, fuzzy
+#: ../mate-vfs.keys.in.h:300
 msgid "StarImpress presentation"
-msgstr "അവതരണം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:288
-#, fuzzy
+#: ../mate-vfs.keys.in.h:301
 msgid "StarMail file"
-msgstr "രചനകള് അയക്കുക‌‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:289
-#, fuzzy
+#: ../mate-vfs.keys.in.h:302
 msgid "StarMath document"
-msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:290
+#: ../mate-vfs.keys.in.h:303
 msgid "StarOffice extended metafile image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:291
-#, fuzzy
+#: ../mate-vfs.keys.in.h:304
 msgid "StarWriter document"
-msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:292
+#: ../mate-vfs.keys.in.h:305
 msgid "Style sheet"
 msgstr ""
 
-#: mate-vfs.keys.in.h:293
+#: ../mate-vfs.keys.in.h:306
 msgid "Sun mu-law audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:294
+#: ../mate-vfs.keys.in.h:307
 msgid "SunOS News font"
 msgstr ""
 
-#: mate-vfs.keys.in.h:295
+#: ../mate-vfs.keys.in.h:308
 msgid "Symbolic link"
 msgstr "ചിഹ്നിത ബന്ധം"
 
-#: mate-vfs.keys.in.h:296
-#, fuzzy
+#: ../mate-vfs.keys.in.h:309
 msgid "System"
-msgstr "വ്യ‍ുഹം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:297
-#, fuzzy
+#: ../mate-vfs.keys.in.h:310
 msgid "TIFF image"
-msgstr "ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:298
+#: ../mate-vfs.keys.in.h:311
 msgid "Tab-separated text document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:299
+#: ../mate-vfs.keys.in.h:312
 msgid "Tar archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:300
+#: ../mate-vfs.keys.in.h:313
 msgid "Tar archive (Bzip2-compressed)"
 msgstr ""
 
-#: mate-vfs.keys.in.h:301
+#: ../mate-vfs.keys.in.h:314
 msgid "Tar archive (Gzip-compressed)"
 msgstr ""
 
-#: mate-vfs.keys.in.h:302
-#, fuzzy
+#: ../mate-vfs.keys.in.h:315
 msgid "TarGA image"
-msgstr "അവ്യക്ത ഛായ"
+msgstr ""
 
-#: mate-vfs.keys.in.h:303
+#: ../mate-vfs.keys.in.h:316
 msgid "Tcl script"
 msgstr ""
 
-#: mate-vfs.keys.in.h:304
-#, fuzzy
+#: ../mate-vfs.keys.in.h:317
 msgid "TeX document"
-msgstr "രചന"
+msgstr ""
 
-#: mate-vfs.keys.in.h:305
-#, fuzzy
+#: ../mate-vfs.keys.in.h:318
 msgid "TeX dvi document"
-msgstr "രചന അച്ചടിക്കുക‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:306
-#, fuzzy
+#: ../mate-vfs.keys.in.h:319
 msgid "TeX font"
-msgstr "പാദ അക്ഷരരൂപം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:307
+#: ../mate-vfs.keys.in.h:320
 msgid "TeX font metrics"
 msgstr ""
 
-#: mate-vfs.keys.in.h:308
-#, fuzzy
+#: ../mate-vfs.keys.in.h:321
 msgid "TeXInfo document"
-msgstr " രചനയില്‌ നിന്ന്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:309
+#: ../mate-vfs.keys.in.h:322
 msgid "Theme"
 msgstr "രംഗവിധാനം"
 
-#: mate-vfs.keys.in.h:310
-#, fuzzy
+#: ../mate-vfs.keys.in.h:323
 msgid "ToutDoux document"
-msgstr "രചനയില്‌ നിന്ന്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:311
+#: ../mate-vfs.keys.in.h:324
 msgid "Troff document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:312
+#: ../mate-vfs.keys.in.h:325
 msgid "Troff me input document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:313
+#: ../mate-vfs.keys.in.h:326
 msgid "Troff mm input document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:314
+#: ../mate-vfs.keys.in.h:327
 msgid "Troff ms input document"
 msgstr ""
 
-#: mate-vfs.keys.in.h:315
-#, fuzzy
+#: ../mate-vfs.keys.in.h:328
 msgid "TrueType font"
-msgstr "സൂചനാതരം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:316
-#, fuzzy
+#: ../mate-vfs.keys.in.h:329
 msgid "Truevision Targa image"
-msgstr "ടാഗാ ഛായാചിത്രരീതി"
+msgstr ""
 
-#: mate-vfs.keys.in.h:317
-#, fuzzy
+#: ../mate-vfs.keys.in.h:330
 msgid "USENET news message"
-msgstr "സന്ദേശം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:318
-#, fuzzy
+#: ../mate-vfs.keys.in.h:331
 msgid "Unidata netCDF document"
-msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
+msgstr ""
 
-#: mate-vfs.keys.in.h:319
+#: ../mate-vfs.keys.in.h:332
 msgid "Unknown type"
 msgstr "അറിയാത്ത ഇനം"
 
-#: mate-vfs.keys.in.h:320
+#: ../mate-vfs.keys.in.h:333
 msgid "User Interface"
 msgstr "ഉപയോക്തൃ നാമം"
 
-#: mate-vfs.keys.in.h:321
-#, fuzzy
+#: ../mate-vfs.keys.in.h:334
 msgid "User Interface/Fonts"
-msgstr "ഉപയോക്തൃ നാമം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:322
+#: ../mate-vfs.keys.in.h:335
 msgid "Ustar archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:323
-#, fuzzy
+#: ../mate-vfs.keys.in.h:336
 msgid "V font"
-msgstr "ഉള്ളടക്കത്തിന്റെ അക്ഷരരൂപം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:324
-#, fuzzy
+#: ../mate-vfs.keys.in.h:337
 msgid "VOC audio"
-msgstr "തരംഗ ശ്രവണം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:325
-#, fuzzy
+#: ../mate-vfs.keys.in.h:338
 msgid "VRML document"
-msgstr "ഗ്രന്ഥങ്ങള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:326
+#: ../mate-vfs.keys.in.h:339
+msgid "Verilog source code"
+msgstr ""
+
+#: ../mate-vfs.keys.in.h:340
 msgid "Video"
 msgstr "ചലനചിത്രം"
 
-#: mate-vfs.keys.in.h:327
+#: ../mate-vfs.keys.in.h:341
 msgid "Vivo video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:328
+#: ../mate-vfs.keys.in.h:342
 msgid "WAIS source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:329
+#: ../mate-vfs.keys.in.h:343
 msgid "Wave audio"
 msgstr ""
 
-#: mate-vfs.keys.in.h:330
+#: ../mate-vfs.keys.in.h:344
 msgid "Wavelet video"
 msgstr ""
 
-#: mate-vfs.keys.in.h:331
+#: ../mate-vfs.keys.in.h:345
 msgid "Web folder"
 msgstr ""
 
-#: mate-vfs.keys.in.h:332
-#, fuzzy
+#: ../mate-vfs.keys.in.h:346
 msgid "Windows bitmap image"
-msgstr "ജാലക നാമാവലി വലിപ്പം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:333
-#, fuzzy
+#: ../mate-vfs.keys.in.h:347
 msgid "Windows icon image"
-msgstr "ജീലക ഉപയോഗം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:334
-#, fuzzy
+#: ../mate-vfs.keys.in.h:348
 msgid "Windows metafile graphics"
-msgstr "ജാലക മുന്ഗണനകള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:335
-#, fuzzy
+#: ../mate-vfs.keys.in.h:349
 msgid "WordPerfect document"
-msgstr "രചന അച്ചടിക്കുക‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:336
+#: ../mate-vfs.keys.in.h:350
 msgid "X bitmap image"
 msgstr ""
 
-#: mate-vfs.keys.in.h:337
-#, fuzzy
+#: ../mate-vfs.keys.in.h:351
 msgid "X window image"
-msgstr "ജാലക പാലകന്:‌"
+msgstr ""
 
-#: mate-vfs.keys.in.h:338
+#: ../mate-vfs.keys.in.h:352
 msgid "XBEL bookmarks file"
 msgstr ""
 
-#: mate-vfs.keys.in.h:339
-#, fuzzy
+#: ../mate-vfs.keys.in.h:353
 msgid "XML document"
-msgstr "ഗ്രന്ഥങ്ങള്"
+msgstr ""
 
-#: mate-vfs.keys.in.h:340
-#, fuzzy
+#: ../mate-vfs.keys.in.h:354
 msgid "XPM image"
-msgstr "ലോഗോ ചിത്രം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:341
-#, fuzzy
+#: ../mate-vfs.keys.in.h:355
 msgid "Xbase database"
-msgstr "വസ്തുതാശേഖരം"
+msgstr ""
 
-#: mate-vfs.keys.in.h:342
+#: ../mate-vfs.keys.in.h:356
 msgid "Yacc grammar source code"
 msgstr ""
 
-#: mate-vfs.keys.in.h:343
+#: ../mate-vfs.keys.in.h:357
 msgid "Z shell script"
 msgstr ""
 
-#: mate-vfs.keys.in.h:344
+#: ../mate-vfs.keys.in.h:358
 msgid "Zip archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:345
+#: ../mate-vfs.keys.in.h:359
 msgid "Zoo archive"
 msgstr ""
 
-#: mate-vfs.keys.in.h:346
+#: ../mate-vfs.keys.in.h:360
 msgid "gettext translation"
 msgstr ""
 
-#: mate-vfs.keys.in.h:347
+#: ../mate-vfs.keys.in.h:361
 msgid "iPod software"
 msgstr ""
 
-#: mate-vfs.keys.in.h:348
+#: ../mate-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "xfig സദിശചിത്രം"

@@ -1,20 +1,23 @@
-# traditional Chinese translation of mate-mime-data.
-# Copyright (C) 2001, 02, 03, 04 Free Software Foundation, Inc.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Joe Man <trmetal@yahoo.com.hk>, 2001.
-# Abel Cheung <abel@oaka.org>, 2002-2003.
-# Tim Leung <tonytim_leung@yahoo.com.hk>, 2004
-#
+# Tim Leung <tonytim_leung@yahoo.com.hk>, 2004.
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-mime-data 2.4.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-06-22 12:57+0000\n"
-"PO-Revision-Date: 2004-03-15 06:05+0800\n"
-"Last-Translator: Abel Cheung <abel@oaka.org>\n"
-"Language-Team: Chinese (traditional) <community@linuxhall.org>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-17 16:32+0100\n"
+"PO-Revision-Date: 2012-02-17 15:35+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
 #: ../mate-vfs.keys.in.h:1
 msgid "2D chemical structure"
@@ -185,252 +188,252 @@ msgid "CPIO archive (Gzip-compressed)"
 msgstr "CPIO 保存檔 (Gzip 壓縮)"
 
 #: ../mate-vfs.keys.in.h:43
+msgid "Caja link"
+msgstr "Caja 鏈結"
+
+#: ../mate-vfs.keys.in.h:44
 msgid "Calendar file"
 msgstr "行事曆檔案"
 
-#: ../mate-vfs.keys.in.h:44
+#: ../mate-vfs.keys.in.h:45
 msgid "Calendar or event document"
 msgstr "行事曆/事件 文件"
 
-#: ../mate-vfs.keys.in.h:45
+#: ../mate-vfs.keys.in.h:46
 msgid "Character device"
 msgstr "字元裝置"
 
-#: ../mate-vfs.keys.in.h:46
+#: ../mate-vfs.keys.in.h:47
 msgid "Cinelerra editing sheet"
 msgstr "Cinelerra 編輯表格"
 
-#: ../mate-vfs.keys.in.h:47
+#: ../mate-vfs.keys.in.h:48
 msgid "Comma-separated text document"
 msgstr "逗號字元分隔文件"
 
-#: ../mate-vfs.keys.in.h:48
+#: ../mate-vfs.keys.in.h:49
 msgid "Commodore 64 audio"
 msgstr "Commodore 64 音效檔"
 
-#: ../mate-vfs.keys.in.h:49
+#: ../mate-vfs.keys.in.h:50
 msgid "Compound document"
 msgstr "複合文件"
 
-#: ../mate-vfs.keys.in.h:50
+#: ../mate-vfs.keys.in.h:51
 msgid "Compress-compressed file"
 msgstr "Compress 格式壓縮檔"
 
-#: ../mate-vfs.keys.in.h:51
+#: ../mate-vfs.keys.in.h:52
 msgid "Compressed GIMP document"
 msgstr "已壓縮的 GIMP 文件"
 
-#: ../mate-vfs.keys.in.h:52
+#: ../mate-vfs.keys.in.h:53
 msgid "Corel Draw drawing"
 msgstr "Corel Draw 繪圖"
 
-#: ../mate-vfs.keys.in.h:53
+#: ../mate-vfs.keys.in.h:54
 msgid "Crystalline structure model"
 msgstr "晶體結構模型"
 
-#: ../mate-vfs.keys.in.h:54
+#: ../mate-vfs.keys.in.h:55
 msgid "DCL script"
 msgstr "DCL 描述語言檔"
 
-#: ../mate-vfs.keys.in.h:55
+#: ../mate-vfs.keys.in.h:56
 msgid "DOS font"
 msgstr "DOS 字型檔"
 
-#: ../mate-vfs.keys.in.h:56
+#: ../mate-vfs.keys.in.h:57
 msgid "DOS/Windows program"
 msgstr "DOS/Windows 程式"
 
-#: ../mate-vfs.keys.in.h:57
+#: ../mate-vfs.keys.in.h:58
 msgid "DSSSL document"
 msgstr "DSSSL 文件"
 
-#: ../mate-vfs.keys.in.h:58
+#: ../mate-vfs.keys.in.h:59
 msgid "DV video"
 msgstr "DV 影音檔"
 
-#: ../mate-vfs.keys.in.h:59
+#: ../mate-vfs.keys.in.h:60
 msgid "DXF vector graphic"
 msgstr "DXF 向量圖像"
 
-#: ../mate-vfs.keys.in.h:60
+#: ../mate-vfs.keys.in.h:61
 msgid "Debian package"
 msgstr "Debian 套件"
 
-#: ../mate-vfs.keys.in.h:61
+#: ../mate-vfs.keys.in.h:62
 msgid "Device Independant Bitmap"
 msgstr "DIB 點陣圖"
 
-#: ../mate-vfs.keys.in.h:62
+#: ../mate-vfs.keys.in.h:63
 msgid "Dia diagram"
 msgstr "Dia 圖表"
 
-#: ../mate-vfs.keys.in.h:63
+#: ../mate-vfs.keys.in.h:64
 msgid "Digital Imaging and Communications in Medicine image"
 msgstr "DICOM 醫學影像"
 
-#: ../mate-vfs.keys.in.h:64
+#: ../mate-vfs.keys.in.h:65
 msgid "Digital Moving Picture Exchange image"
 msgstr "DPX 圖像"
 
-#: ../mate-vfs.keys.in.h:65
+#: ../mate-vfs.keys.in.h:66
 msgid "Directory information file"
 msgstr "目錄資訊檔"
 
-#: ../mate-vfs.keys.in.h:66
+#: ../mate-vfs.keys.in.h:67
 msgid "DjVu image"
 msgstr "DjVu 圖像"
 
-#: ../mate-vfs.keys.in.h:67
+#: ../mate-vfs.keys.in.h:68
 msgid "Document type definition"
 msgstr "DTD 文件類別定義檔"
 
-#: ../mate-vfs.keys.in.h:68
+#: ../mate-vfs.keys.in.h:69
 msgid "Documents"
 msgstr "文件"
 
-#: ../mate-vfs.keys.in.h:69
+#: ../mate-vfs.keys.in.h:70
 msgid "Documents/Diagram"
 msgstr "文件/圖表"
 
-#: ../mate-vfs.keys.in.h:70
+#: ../mate-vfs.keys.in.h:71
 msgid "Documents/Extended Markup Language (XML)"
 msgstr "文件/XML"
 
-#: ../mate-vfs.keys.in.h:71
+#: ../mate-vfs.keys.in.h:72
 msgid "Documents/Numeric"
 msgstr "文件/數學"
 
-#: ../mate-vfs.keys.in.h:72
+#: ../mate-vfs.keys.in.h:73
 msgid "Documents/Plain Text"
 msgstr "文件/純文字"
 
-#: ../mate-vfs.keys.in.h:73
+#: ../mate-vfs.keys.in.h:74
 msgid "Documents/Presentation"
 msgstr "文件/簡報檔"
 
-#: ../mate-vfs.keys.in.h:74
+#: ../mate-vfs.keys.in.h:75
 msgid "Documents/Project Management"
 msgstr "文件/專案管理"
 
-#: ../mate-vfs.keys.in.h:75
+#: ../mate-vfs.keys.in.h:76
 msgid "Documents/Published Materials"
 msgstr "文件/出版文件"
 
-#: ../mate-vfs.keys.in.h:76
+#: ../mate-vfs.keys.in.h:77
 msgid "Documents/Spreadsheet"
 msgstr "文件/試算表"
 
-#: ../mate-vfs.keys.in.h:77
+#: ../mate-vfs.keys.in.h:78
 msgid "Documents/TeX"
 msgstr "文件/TeX"
 
-#: ../mate-vfs.keys.in.h:78
+#: ../mate-vfs.keys.in.h:79
 msgid "Documents/Text Markup"
 msgstr "文件/標記文字"
 
-#: ../mate-vfs.keys.in.h:79
+#: ../mate-vfs.keys.in.h:80
 msgid "Documents/Vector Graphics"
 msgstr "文件/向量圖像"
 
-#: ../mate-vfs.keys.in.h:80
+#: ../mate-vfs.keys.in.h:81
 msgid "Documents/Word Processor"
 msgstr "文件/文書處理器"
 
-#: ../mate-vfs.keys.in.h:81
+#: ../mate-vfs.keys.in.h:82
 msgid "Documents/World Wide Web"
 msgstr "文件/網頁"
 
-#: ../mate-vfs.keys.in.h:82
+#: ../mate-vfs.keys.in.h:83
 msgid "Dolby Digital audio"
 msgstr "杜比數碼音效檔"
 
-#: ../mate-vfs.keys.in.h:83
+#: ../mate-vfs.keys.in.h:84
 msgid "Dreamcast ROM"
 msgstr "Dreamcast ROM"
 
-#: ../mate-vfs.keys.in.h:84
+#: ../mate-vfs.keys.in.h:85
 msgid "Emacs Lisp source code"
 msgstr "Emacs Lisp 源代碼"
 
-#: ../mate-vfs.keys.in.h:85
+#: ../mate-vfs.keys.in.h:86
 msgid "Email headers"
 msgstr "郵件檔頭"
 
-#: ../mate-vfs.keys.in.h:86
+#: ../mate-vfs.keys.in.h:87
 msgid "Email message/mailbox"
 msgstr "郵件訊息/郵箱"
 
-#: ../mate-vfs.keys.in.h:87
+#: ../mate-vfs.keys.in.h:88
 msgid "Encrypted message"
 msgstr "加密訊息"
 
-#: ../mate-vfs.keys.in.h:88
+#: ../mate-vfs.keys.in.h:89
 msgid "Enlightenment theme"
 msgstr "Enlightenment 佈景檔"
 
-#: ../mate-vfs.keys.in.h:89
+#: ../mate-vfs.keys.in.h:90
 msgid "Enriched text document"
 msgstr "Enriched text 文件"
 
-#: ../mate-vfs.keys.in.h:90
+#: ../mate-vfs.keys.in.h:91
 msgid "Epiphany bookmarks file"
 msgstr "Epiphany 書籤檔"
 
-#: ../mate-vfs.keys.in.h:91
+#: ../mate-vfs.keys.in.h:92
 msgid "FLAC audio"
 msgstr "FLAC 音效檔"
 
-#: ../mate-vfs.keys.in.h:92
+#: ../mate-vfs.keys.in.h:93
 msgid "FLC animation"
 msgstr "FLC 動畫檔"
 
-#: ../mate-vfs.keys.in.h:93
+#: ../mate-vfs.keys.in.h:94
 msgid "FLI animation"
 msgstr "FLI 動畫檔"
 
-#: ../mate-vfs.keys.in.h:94
+#: ../mate-vfs.keys.in.h:95
 msgid "FastTracker II audio"
 msgstr "FastTracker II 音效檔"
 
-#: ../mate-vfs.keys.in.h:95
+#: ../mate-vfs.keys.in.h:96
 msgid "FlashPix Image"
 msgstr "FlashPix 圖像"
 
-#: ../mate-vfs.keys.in.h:96
+#: ../mate-vfs.keys.in.h:97
 msgid "Flexible Image Transport System"
 msgstr "FITS 圖像"
 
-#: ../mate-vfs.keys.in.h:97
+#: ../mate-vfs.keys.in.h:98
 msgid "Folder"
 msgstr "資料夾"
 
-#: ../mate-vfs.keys.in.h:98
+#: ../mate-vfs.keys.in.h:99
 msgid "Fortran source code"
 msgstr "Fortran 源代碼"
 
-#: ../mate-vfs.keys.in.h:99
+#: ../mate-vfs.keys.in.h:100
 msgid "FrameMaker interchange document"
 msgstr "FrameMaker 交換文件"
 
-#: ../mate-vfs.keys.in.h:100
+#: ../mate-vfs.keys.in.h:101
 msgid "G3 fax image"
 msgstr "G3 傳真圖像"
 
-#: ../mate-vfs.keys.in.h:101
+#: ../mate-vfs.keys.in.h:102
 msgid "GIF image"
 msgstr "GIF 圖像"
 
-#: ../mate-vfs.keys.in.h:102
+#: ../mate-vfs.keys.in.h:103
 msgid "GIMP document"
 msgstr "GIMP 圖像檔"
 
-#: ../mate-vfs.keys.in.h:103
+#: ../mate-vfs.keys.in.h:104
 msgid "GMC link"
 msgstr "GMC 鏈結"
-
-#: ../mate-vfs.keys.in.h:104
-msgid "MATE desktop theme"
-msgstr "MATE 桌面佈景"
 
 #: ../mate-vfs.keys.in.h:105
 msgid "GNU Oleo Spreadsheet"
@@ -625,174 +628,172 @@ msgid "LyX document"
 msgstr "LyX 文件"
 
 #: ../mate-vfs.keys.in.h:153
+msgid "MATE desktop theme"
+msgstr "MATE 桌面佈景"
+
+#: ../mate-vfs.keys.in.h:154
 msgid "MIDI audio"
 msgstr "MIDI 音效檔"
 
-#: ../mate-vfs.keys.in.h:154
+#: ../mate-vfs.keys.in.h:155
 msgid "MOD audio"
 msgstr "MOD 音效檔"
 
-#: ../mate-vfs.keys.in.h:155
+#: ../mate-vfs.keys.in.h:156
 msgid "MP3 audio"
 msgstr "MP3 音效檔"
 
-#: ../mate-vfs.keys.in.h:156
+#: ../mate-vfs.keys.in.h:157
 msgid "MP3 audio playlist"
 msgstr "MP3 播放清單"
 
-#: ../mate-vfs.keys.in.h:157
+#: ../mate-vfs.keys.in.h:158
 msgid "MPEG video"
 msgstr "MPEG 影音檔"
 
-#: ../mate-vfs.keys.in.h:158
+#: ../mate-vfs.keys.in.h:159
 msgid "MPEG-4 audio"
 msgstr "MPEG-4 音效檔"
 
-#: ../mate-vfs.keys.in.h:159
+#: ../mate-vfs.keys.in.h:160
 msgid "MS ASF audio"
 msgstr "MS ASF 音效檔"
 
-#: ../mate-vfs.keys.in.h:160
+#: ../mate-vfs.keys.in.h:161
 msgid "MS ASF video"
 msgstr "MS ASF 影音檔"
 
-#: ../mate-vfs.keys.in.h:161
+#: ../mate-vfs.keys.in.h:162
 msgid "MS video"
 msgstr "MS 影音檔"
 
-#: ../mate-vfs.keys.in.h:162
+#: ../mate-vfs.keys.in.h:163
 msgid "MSX ROM"
 msgstr "MSX ROM"
 
-#: ../mate-vfs.keys.in.h:163
+#: ../mate-vfs.keys.in.h:164
 msgid "MacBinary file"
 msgstr "MacBinary 檔案"
 
-#: ../mate-vfs.keys.in.h:164
+#: ../mate-vfs.keys.in.h:165
 msgid "Macintosh AppleDouble-encoded file"
 msgstr "Macintosh AppleDouble 編碼檔"
 
-#: ../mate-vfs.keys.in.h:165
+#: ../mate-vfs.keys.in.h:166
 msgid "Macintosh BinHex-encoded file"
 msgstr "Macintosh BinHex 編碼檔"
 
-#: ../mate-vfs.keys.in.h:166
+#: ../mate-vfs.keys.in.h:167
 msgid "Macintosh StuffIt archive"
 msgstr "Macintosh StuffIt 保存檔"
 
-#: ../mate-vfs.keys.in.h:167
+#: ../mate-vfs.keys.in.h:168
 msgid "Macromedia Flash file"
 msgstr "Macromedia Flash 檔"
 
-#: ../mate-vfs.keys.in.h:168
+#: ../mate-vfs.keys.in.h:169
 msgid "MagicPoint presentation"
 msgstr "MagicPoint 簡報檔"
 
-#: ../mate-vfs.keys.in.h:169
+#: ../mate-vfs.keys.in.h:170
 msgid "Magick image format"
 msgstr "Magick 圖像檔"
 
-#: ../mate-vfs.keys.in.h:170
+#: ../mate-vfs.keys.in.h:171
 msgid "Mail delivery report"
 msgstr "郵件傳送報告"
 
-#: ../mate-vfs.keys.in.h:171
+#: ../mate-vfs.keys.in.h:172
 msgid "Mail disposition report"
 msgstr "郵件處理報告"
 
-#: ../mate-vfs.keys.in.h:172
+#: ../mate-vfs.keys.in.h:173
 msgid "Mail system report"
 msgstr "郵件系統報告"
 
-#: ../mate-vfs.keys.in.h:173
+#: ../mate-vfs.keys.in.h:174
 msgid "Makefile"
 msgstr "Makefile"
 
-#: ../mate-vfs.keys.in.h:174
+#: ../mate-vfs.keys.in.h:175
 msgid "Manual page"
 msgstr "Manual page 說明文件"
 
-#: ../mate-vfs.keys.in.h:175
+#: ../mate-vfs.keys.in.h:176
 msgid "Manual page (compressed)"
 msgstr "Manual page 說明文件(已壓縮)"
 
-#: ../mate-vfs.keys.in.h:176
+#: ../mate-vfs.keys.in.h:177
 msgid "Master System or Game Gear ROM"
 msgstr "Master System 或 Game Gear ROM"
 
-#: ../mate-vfs.keys.in.h:177
+#: ../mate-vfs.keys.in.h:178
 msgid "MathML document"
 msgstr "MathML 文件"
 
-#: ../mate-vfs.keys.in.h:178
+#: ../mate-vfs.keys.in.h:179
 msgid "Matroska video"
 msgstr "Matroska 影音檔"
 
-#: ../mate-vfs.keys.in.h:179
+#: ../mate-vfs.keys.in.h:180
 msgid "Memory dump"
 msgstr "記憶體傾印檔"
 
-#: ../mate-vfs.keys.in.h:180
+#: ../mate-vfs.keys.in.h:181
 msgid "Message"
 msgstr "訊息"
 
-#: ../mate-vfs.keys.in.h:181
+#: ../mate-vfs.keys.in.h:182
 msgid "Message digest"
 msgstr "訊息摘要"
 
-#: ../mate-vfs.keys.in.h:182
+#: ../mate-vfs.keys.in.h:183
 msgid "Message in several formats"
 msgstr "多重格式郵件"
 
-#: ../mate-vfs.keys.in.h:183
+#: ../mate-vfs.keys.in.h:184
 msgid "Microsoft Excel spreadsheet"
 msgstr "微軟 Excel 試算表"
 
-#: ../mate-vfs.keys.in.h:184
+#: ../mate-vfs.keys.in.h:185
 msgid "Microsoft PowerPoint document"
 msgstr "微軟 PowerPoint 文件"
 
-#: ../mate-vfs.keys.in.h:185
+#: ../mate-vfs.keys.in.h:186
 msgid "Microsoft WMV playlist"
 msgstr "微軟 WMV 播放清單"
 
-#: ../mate-vfs.keys.in.h:186
+#: ../mate-vfs.keys.in.h:187
 msgid "Microsoft WMV video"
 msgstr "微軟 WMV 影音檔"
 
-#: ../mate-vfs.keys.in.h:187
+#: ../mate-vfs.keys.in.h:188
 msgid "Microsoft Word document"
 msgstr "Microsoft Word 文件"
 
-#: ../mate-vfs.keys.in.h:188
+#: ../mate-vfs.keys.in.h:189
 msgid "Microsoft video"
 msgstr "微軟影音檔"
 
-#: ../mate-vfs.keys.in.h:189
+#: ../mate-vfs.keys.in.h:190
 msgid "Monkey audio"
 msgstr "Monkey 音效檔"
 
-#: ../mate-vfs.keys.in.h:190
+#: ../mate-vfs.keys.in.h:191
 msgid "Mozilla bookmarks file"
 msgstr "Mozilla 書籤檔"
 
-#: ../mate-vfs.keys.in.h:191
+#: ../mate-vfs.keys.in.h:192
 msgid "Multi-part message"
 msgstr "多重部分訊息"
 
-#: ../mate-vfs.keys.in.h:192
+#: ../mate-vfs.keys.in.h:193
 msgid "NES ROM"
 msgstr "NES ROM"
 
-# I guess this is inappropriate to translate at all -- Abel
-# Was: 具名導管
-#: ../mate-vfs.keys.in.h:193
+#: ../mate-vfs.keys.in.h:194
 msgid "Named pipe"
 msgstr "Named pipe"
-
-#: ../mate-vfs.keys.in.h:194
-msgid "Caja link"
-msgstr "Caja 鏈結"
 
 #: ../mate-vfs.keys.in.h:195
 msgid "Netscape bookmarks file"
@@ -1010,7 +1011,6 @@ msgstr "Quicken for Windows 文件"
 msgid "RAR archive"
 msgstr "RAR 保存檔"
 
-# "讀我文件"??? -- Abel
 #: ../mate-vfs.keys.in.h:249
 msgid "README document"
 msgstr "README 說明文件"
@@ -1027,8 +1027,6 @@ msgstr "RIFF 音效檔"
 msgid "RPM package"
 msgstr "RPM 套件"
 
-# No official image/x-gray MIME type found in IANA, and searching
-# google yields no result. So I don't translate it. -- Abel
 #: ../mate-vfs.keys.in.h:253
 msgid "Raw Gray Sample"
 msgstr "Raw Gray Sample"
@@ -1189,9 +1187,6 @@ msgstr "軟體使用條款"
 msgid "Source code patch"
 msgstr "源代碼修補檔"
 
-# This is speech synthesis data from some software from MVP Solutions
-# extension: .talk
-# mime type: text/x-speech
 #: ../mate-vfs.keys.in.h:293
 msgid "Speech document"
 msgstr "Speech 語音合成檔案"
@@ -1471,9 +1466,3 @@ msgstr "iPod 軟體"
 #: ../mate-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "xfig 向量圖"
-
-#~ msgid "rich text document"
-#~ msgstr "RTF 文件"
-
-#~ msgid "unknown type"
-#~ msgstr "類別不詳"
